@@ -1,0 +1,73 @@
+html,
+body {
+  background: #e4e3ea;
+  font-family: system-ui, Helvetica, Arial, sans-serif;
+  --paper-accent: #e0812e;
+}
+
+.app {
+  height: 100vh;
+  width: 70%;
+  max-width: 760px;
+  padding: 12px 8px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+header,
+.searcher {
+  margin-bottom: .8em;
+}
+
+header {
+  line-height: 1.5em;
+}
+
+.searcher {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.search-input {
+  font-size: 1em;
+  width: 0;
+  flex-grow: 1;
+}
+
+ul.note-list {
+  margin: 0;
+  padding-left: 0;
+}
+
+li.note-item {
+  margin-bottom: .4em;
+}
+
+li p {
+  margin: 0;
+  line-height: 1.4em;
+}
+
+.note-item li {
+  margin: .2em;
+}
+
+p.heading {
+  font-size: .8em;
+  color: #888;
+  margin-bottom: .6em;
+}
+
+.about-button {
+  font-size: 1em;
+  margin-left: .6em;
+}
+
+header a {
+  color: var(--paper-background);
+  cursor: pointer;
+}

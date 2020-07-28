@@ -55,8 +55,8 @@ function noteMatches(search, { heading, lines }) {
 function Note({ heading, lines }) {
   const mainLine = lines[0];
   const restLines = lines.slice(1);
-  return html`<li>
-    <p class="heading">${heading}</p>
+  return html`<li class="paper note-item">
+    ${heading ? html`<p class="heading">${heading}</p>` : null}
     <p class="main-line">${mainLine}</p>
     ${restLines.length ? html`<ul>
       ${restLines.map(line => html`<li class="rest-line">${line}</li>`)}
@@ -84,20 +84,26 @@ class App extends Component {
   compose() {
     const matched = this.notes.filter(note => noteMatches(this.search, note));
     return html`<div class="app">
-    <header>
-      ${matched.length} results
+    <header class="accent paper">
+      Linus's (<a href="https://thesephist.com">@thesephist</p>) notes on startups and life.
+      <br/>
+      <strong>${matched.length ? `${matched.length} results` : 'loading notes...'}</strong>
     </header>
     <div class="searcher">
       <input type="text"
-        class="search-input"
+        class="paper paper-border-left search-input"
         placeholder="Search Linus's notes..."
+        autofocus
           oninput=${evt => {
         this.search = evt.target.value;
         this.render();
       }} />
+      <button class="movable paper paper-border-right about-button">
+        about
+      </button>
     </div>
     <div class="results">
-      <ul>
+      <ul class="note-list">
         ${matched.map(Note)}
       </ul>
     </div>

@@ -727,7 +727,7 @@
 - Show progress, traction, learnings since you applied.
 - The most helpful thing you can do besides practicing with cofounder is mock interviews. Number of mock interviews done in prep directly correlates to how prepared you'll feel afterwards.
 
-### Prep
+### YC Interview Prep
 - The most useful thing by far is YC mock interviews with YC alums. Aim to do at least 20.
 - At mock interviews, have a list of ideas you want to communicate to the partners no matter what about your market, product, user. After each mock, as what the interviewer understood about those things and repeat until you can communicate these key points clearly.
 - Practice taking vague sentences / ideas and making them specific and concrete, e.g. "machine learning platform" -> "web dashboard to build an image classifier"
@@ -737,7 +737,7 @@
 - Talk to current and potential users a lot, know them well.
 - Prefer specific facts and learnings over high-level arguments and conclusions.
 
-### Good questions
+### YC Interview - Good questions
 - The first question is almost always some variation of "What does your company do?" or "What are you building?" Good candidates can communicate these ideas clearly and concisely, because they've thought a lot about it.
 - Who needs what you're making / how do you know they need it? What are they doing instead now?
 - Why isn't someone already doing this? / Why hasn't someone already fixed this problem? (Why now?)
@@ -751,12 +751,12 @@
 - What are the top things users want?
 - Growth / conversion / retention rates?
 
-### Logistics
+### YC Interview - Logistics
 - They sometimes ask you to come back for a second 10 minutes, which is usually to get a subject-matter expert and dig deeper, if the first interview didn't have people that fully understood your problem but you seemed to know what you're doing.
 - You're told whether you need to do a second round usually right after the first round
 
 ## Sales notes
-- see also: /posts/sales-learnings/
+- see also: thesephist.com/posts/sales-learnings/
 
 ## Alex Danco's Snippets 2.0
 - "Crowds are usually temporary phenomena. What kills the crowd is when the individual members of the crowd begin once again thinking of themselves, their awareness of their own personal boundaries, and their own objectives. They may leave peacefully, they may flee, or they may turn against the crowd itself. The number one thing we need to know in order to understand the crowd is: What differentiation has been cast aside in the creation of this crowd, and in what ways might the return of differentiation destroy the crowd?"
