@@ -9,8 +9,6 @@ body {
   height: 100vh;
   width: 70%;
   max-width: 760px;
-  display: flex;
-  flex-direction: column;
   box-sizing: border-box;
   margin: .8em auto;
 }
@@ -42,6 +40,7 @@ footer {
   font-size: 1em;
   width: 0;
   flex-grow: 1;
+  -webkit-appearance: none;
 }
 
 ul.note-list {
@@ -97,5 +96,5 @@ footer a {
 }
 
 footer {
-  margin-bottom: 1em;
+  padding-bottom: 1em;
 }
