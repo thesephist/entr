@@ -1,0 +1,1215 @@
+- Profitability is important because a positive revenue stream means, no matter how small, the venture does not have to raise more capital
+- "Ramen Profitability" is assuring to investors and owners that the startup has potential and is keeping expenses low with desirable, marketable products
+- "What keeps people from starting startups is the fear of having so much responsibility."
+- Raising money is the worst distraction, and without its necessity, the company can focus most on the critical work
+- "Bootstrapping" or success without taking investments has a much lower chance of success
+- Partition the day's time wisely. A path may be to have two work days in one, one on "business stuff" and one on the maker's schedule
+- Startups are a localized culture, and hence, so is entrepreneurship
+- Entrepreneurship is a different type of work -- it's not easier than a nine-to-five, it's more taxing in every way
+- Two types of startups:
+    - Type I, that arises out of need and creativity
+    - Type II, that arises to commercialize a scientific discovery
+- Good design, having a good sense of taste and aesthetic, is hard, and also important
+    - Simple
+    - Timeless
+    - Effective
+    - Looks easy
+    - Daring
+- Great businesses can come without MBAs and investors, but not without hackers and creatives
+- Better to have small number of passionate users than large body of happy ones
+- "The recipe for great work is: very exacting taste, plus the ability to gratify it."
+- "Relentlessly Resourceful": good founders are not hindered by misfortune and battered by circumstances
+- One of the most powerful forces pushing out innovation is social. People tell other people. If a product can connect other people, that will accelerate. ("Why TV Lost [to computers]")
+- Broadcasting != Sharing. Only one is commutative and transitive
+- You are the first investor in your startup
+- Understand your users. Most important thing.
+- The best ideas and conclusions are often best generated and reached when you separate the ideas and the discourse from your identity and your self-image to be protected
+- Life is short. Avoid bullshit and seek out things that matter.
+- "Don't wait before climbing that mountain or writing that book or visiting your mother. You don't need to be constantly reminding yourself why you shouldn't wait. Just don't wait."
+- Lead, don't manage.
+- The economy of the future is not of scale, but of small, rapidly growing new power
+- Good products focus on the users; good platforms focus on the developers
+- "It's not enough to consider your mind a blank slate. You have to consciously erase it."
+- "How to be a great hacker": only work on things that drive you, but on those few things, make them stunningly great
+- You can be proactive, or you can just be a reaction to the rest of the world. [Amy Schmittauer]
+- Charisma alone goes a long way
+- Look first for the hardest parts of the problem
+- Look for ways to disprove your position
+- Most ideas are not undiscovered because they are complex, but unseen because they look wrong. they're all around us.
+- Learn to differentiate between the passing fads of popularity and the genuinely good things; what you really like.
+- Learn to hold the question, the problem, and the solution in one's head. Working in fewer, longer stretches helps this dramatically.
+  - Write code bottom-up, from the biggest structure up, and rewrite the program frequently if possible. This keeps the code base clean.
+  - Start small and focused.
+- Always be capturing (Sprint, GV)
+- Google's Design Thinking
+  1. Discovery: overcome your own biases
+  2. Define the Problem: small downhill: what does success look like?
+  3. Brainstorm the Solution 10x: no idea is bad
+  4. Prototype: test the solution: test as many ideas as many ways as possible
+- Startup culture is defined by constant adaptation
+- "Always work hard on something uncomfortably exciting!" - Larry Page, Google Inc.
+- Treat projects like musical improvisation. Embrace the uncertainty and be guided by time. (Surrender to the unknown)
+- Follow actively: If we want a climate where people can accomplish groundbreaking things, we need to know our voice will be heard and where we’re not afraid to take risks.
+- Don't try to 'disrupt' and don't try to upset the industry best practices. That defines you and your work by the status quo, and the best ideas aren't dependent upon the status quo.
+- Story-centered product design looks not at the purely visual presentation but the experience of the user interacting with the product or service, and makes for a better product
+- Being uncomfortable is often a benefit.
+- Users' trust is one of the most important features of a product
+- Your venture is not about you and your work / innovation; it's about how you will change the lives of your customers. Everything else is irrelevant.
+- Pitch: Clear mission -> Demonstrable problem -> User-centric solution -> Team to deliver -> Interactive appendix and answers to questions; it's a story
+- Design is critical and designers are versatile -- founders, some.
+- Elements: Market, Product, Business Model, Strategy, established in that order
+- "How Google Works"
+  - Optimize for growth and scale, not revenue or profit
+  - People are the most important choices you make initially
+  - Innovation is radically useful
+  - Successful failure is successful recovery
+- Be "unencumbered by reality": persistence in the face of people who say "no"
+- It's often easier to make something 10x better than it is to make it 10% better. - Astro Teller, X
+  - Failure must be an option; give creatives freedom to do great work
+  - Be bothered by limitations
+  - Measure 10x / 10% in impact, not effort or resources
+  - Pay attention to trends
+- Entrepreneurship is about creating change and impact, not about building a company; that's just a side effect. - Mark Zuckerberg, Global Entrepreneurship Summit, 2016
+- The philosophy behind marketing-oriented design: don't lose sight of why the product is useful to the user when you're designing and get held up in the features and technology
+- As long as you care for the customer and show that’s our ultimate goal, they will stick around
+- Google's London design conference: a part of a product designer's job is to calibrate the long-term vision against short term goals and realities
+- Choose the first dozen people by their enthusiasm, not by how good of an employee or coworker they are. (Experience: Sam v. Hunter) The passionate people will find time and come around to stick with it, but the good people may leave you hanging.
+- "Are we running today? Are we making stuff today? Are we changing today?"
+- Great product design is a combination of the company's goals and the customer's goals. Good design makes both parties successful. - Travis Neilson
+- Money is an object. I need money to do the things I want to do. Money is a goal to achieve a better goal.
+- [Hank Green, on Events] People come to events if they can feel comfortable being excited about what they get excited about. When they don't know how that could happen, people don't come or don't have a good time.
+- Effort + Talent, Pettit + Conaway style
+- The actual path to success is going to be "some sort of a zigzaggy thing" - Elon Musk
+- Be a continual amateur. 
+- There is a probabilistically great chance that most of the geniuses in the world don't have access to the Internet. Resource matters. 
+- Human resources are not static; they're like AWS Lambda functions, dispensable and scalable on-demand in the twenty-first entrepreneurial century
+- Marcus Shingles: The most valuable skill today is the ability to be aware of the frontier of the possible and the 'convergence' of technology, then utilize that to the full extent to solve problems, trained in the 'art of the possible'
+- There are two approaches to creating impact in any space and succeeding:
+  1. Identify market demands for a product or an innovation and create it at a good price [market demand, maker response]
+  2. Identify a change or reform that will be necessary in the future, and _create_ market demands to generate sufficient revenue to get there eventually. [maker demand, market response]
+- @zen_habits: If this moment were the most important moment of your life, how would you act differently?
+- The biggest values of a business may originate not from the direct product lines or profit sources of the company, but from its assets, and the potential utility of such assets it may hold or be able to hold in the future
+- "The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny.'" - Isaac Asimov
+- Your job is not to be burdened. "My job is to fall in love." - Lin-Manuel Miranda
+- "Dance with a fear ... Risk a bigger dream ... do work that matters." - Seth Godin, "If not now, when?"
+- Vox.com: two different corporate structures: usually, a company is a combination of both, for different aspects of the business
+  - Smaller companies / start-ups choose functional organization more (famously, Apple), where divisions are created based on skill sets. This allows agile and efficient allocation of resources, but product lines are prone to unstable amounts of attention
+  - Larger companies / groups choose divisional organization more (famously, Berkshire-Hathaway), where divisions are created based on product line. This allows separation of concerns and devotion to each line of business at the cost of agility by separation of concerns.
+- "Your smile is your logo, your personality is your business card, how you leave others feeling after an experience with you becomes your trademark." - Anon on /r/graphic_design
+- On Google v. Amazon in corporate culture: Amazon is product-first, accountable for customer metrics. Each project has a clear boundary and customers and profits. In contrast ,Google is composed of smaller units with much more freedom and access to resources and leisure, building useful ideas into reality without a clear focus on a set of products.
+- Identify where you compete -- that's your MOST. You should focus on being the BEST at those few things, and settle for enough on other ones. Know the difference. Seth Godin.
+- Regina Dugan, NASA JPL: Design and test to fail, because you'll learn more for the right way to the right answer
+- Not merely about the product, but about the interaction with the client and the customer, that's unmistakable
+  - Give each client, each user, an unmistakable experience, and take care for every single user that the experience, the interaction, is hallmark
+- We are human, and the customers are human (so far). Deliver human experiences and interactions. That's what they're paying for.
+- Elon Musk: to be a leader is to avoid being an executive, and instead to be involved in the most important decisions to the product and the customers, wherever they may be happening
+
+- In leadership, treating partners and employees as if they’re a part of your core network, because they are; outside of furthering business goals, be concerned about furthering their personal goals
+- "Behind any successful person stands a long string of failures." - Keith Ferrazzi
+- In the early days of a venture, it’s critical to get the right people. Namely, people who are themselves entrepreneurial. Because the wrong people will not persist.
+- Compete with yourself 10 years from now, in whichever skill it be.
+- As the company grows, growth becomes a lagging indicator, not a real-time indicator. In larger companies, it can lag 1-2 quarters behind in investments and strategic shifts.
+- Brand with a vision. Your brand is your vision, and the conviction that you will succeed in the end, or will die trying. -- Tesla.
+- The Founder’s Null Hypothesis. Before investing any resources into a problem, statistically verify that the problem exists and proposed solution will solve the problem to customer’s demand.
+- History is cyclical, repeating the problems and thoughts humanity encounters again and again. Let go of the transient issues and focus effort on the long-term, humanity-scale problems.
+- Work passionately, as if the life of a person is in your hands, as if your work will save the life of someone you know. And then make it so.
+- Regard a career selflessly; that is, always be pushing myself to grow what my career can do for others.
+- Become indispensable to the field of solving the problems I want to solve.
+- Doist blog, from the CEO: "What’s better than an exit strategy? It’s a long-term mission that your company truly cares about. It’s focusing on building a company that can outlast you and creating something of true value. I believe this kind of thinking should be the guideline for every company."
+- "Every two months or so I look back and shake my head at how lame the product was, how little I knew, and how inefficient my workflow was. Which is to say, I continue to learn at an incredible clip yet realize I still don't know a thing. I expect this trend to continue - if it doesn't, I'm not growing." - welanes, Hacker News; Don't try to create this retroactively, but try to progress at this pace in the short intervals of days and weeks
+- Get the logistics of an environment down, so we can focus on and put effort towards the import things that move us forward.
+- Add to the inventory of rhetoric styles, on Astro Teller: Steve Jobs and Scott Forstall -- tell a _story_
+- "When hiring, never settle. Only hire people who will be as passionate as you. They'll never let you down." In other words, "Hire people who amaze you." [https://hackernoon.com/how-to-bootstrap-your-saas-company-to-1m-arr-before-raising-venture-capital-d3be086effa0]
+- Sales and marketing are about identifying the customer's pain first, then finding ways to help.
+- At every moment, at every practice of every skill, strive to become better than tomorrow, and strive to have today's efforts diminish in comparison to what'll be done tomorrow. We do this by attempting the absolute passionate best at every task. The Jobsian intensity derives from this will.
+
+- Peter Thiel: "A startup is the largest endeavor over which you can have definite mastery." And treat each project as such, a problem with a solution, not an open, potential unanswerable problem.
+- Jobs: "We've got to start with the customer and work backwards to the technology. You can't take a product and figure out how to sell it."
+- On writing: the job of your words is not to communicate; your words should paint scenes, and the way you connect them should tell a story that communicates.
+- Do work that you are proud of, and work because you are proud of what you make.
+- The metric we use to measure our impact is lives impacted, human-hours improved. Per project, per unit time.
+- Sales: Really focus on the specific problem this user has and figure out how they could use our product to solve. That’s my answer to figure out, for the customer: how can the product solve their problem the best?
+- In networking: recall the way Brian Fultz used social media -- to keep up with the fringes and make each conversation relevant to the person when meeting up, or reaching out for important events in their lives.
+- Always try to work most with people you know; if you don't know them, get to know them before calling them clients.
+- Productize experience and deadweight assets: for freelance, be creative about productizing what you know. This is a good way to scale revenue without scaling time commitment as a freelancer.
+- Treat each customer / user / event attendee as if they're going to be the next rockstar customer, the next advocate, the next NYT reviewer
+- Julie Zhuo, on managing, esp. teams with more experienced people than you - 'You don’t have to do everything yourself. You just have to make sure everything gets done."
+- Entrepreneurship is largely a process of learning about the market and about your customers, and I'm pretty good at that. It's a learning game in any new industry. So do that. And be good at it.
+- Two ways to be worth 10x: either invest in something that rises 10x, or make 10x more per hour. The former is fine to work to, but the latter is the thing I should work for.
+- Seth Godin: modern (content) marketing induces an environment that shoots for content that shocks / amazes / gets shared / is popular, but that's tangential to the goal of great marketing -- to help, and to gain trust.
+- You as a leader are only as good as your followers, and integrity (trustworthiness) is at the top of the list.
+- Especially if you want to freelance, you can't just be better than your peers. You have to be better, world-class, period.
+- "Your job as a speaker is not to teach; your job as a speaker is to inspire action."
+- Be driven forward by the urge, the need, to work with the best people in the world, not just in a given industry or profession, but across every discipline (TS)
+- Work for others as if they're versions (clones) of myself
+- Networking - When introducing self, give something personal that they can latch onto, and continue a conversation from. A hook > generic, cold facts and details.
+- The most powerful and effective version of a work is always one borne out of passion and personal belief and emotion. Strive to make every work this.''
+- Whenever you get tired or bored of the work at hand, don't spiral off into online video or social media; read. Find something in which you have interest, and pursue it through books.
+- Maximize the rate of customer benefit to company unit cost.
+- "The chief products of the tech industry are (in B2C) developing new habits among consumers and (in B2B) taking a business process which exists in many places and markedly decreasing the total cost of people required to implement it."
+- I’m trying to look for a way to 10x in assets but I also need to 10x in wages. Also shoot for that.
+- The common trait of people that I admire most and people that inspire me the most is that, more than talent or perseverance or even an obsession with high goals, they are in love with and passionate about their craft. Ultimately, that's what drives everyone from Bill Hader to Elon Musk to James May to Casey Neistat to their heights.
+- Character: flexibility between the James May and the William Haynes
+  - James May, the quintessential British bloke: an intellect typically reserved behind a facie of a few concise, deliberate words and actions
+  - William Haynes, the man of lively, focused action and energy that brings an immediateness to the table
+- You don't become world-class by doing just enough to make an MVP / prototype or get the next marginal customer or make the revenue target. That's how you run a great business. To be great at a craft, to be world-class, you need to continually improve; never be satisfied. That's how you become the best. MasterClass.
+- Buy when things are boring, stay / leave when things are exciting.
+- When envisioning a first end-state for a product, an MVP, begin “from the press release” (AMZN)
+- The holy grail of brand marketing -- Apple, Coca-Cola, Nike. The emotions when you think about those brands are forged, but they are human.
+- Be wary of (SL's) dependence on wealth and guard against it by continually balancing personal capex/L with more frugal / efficient activities and experiences
+- THERE ARE THREE RESPONSES TO A PIECE OF DESIGN—YES, NO, AND WOW! WOW IS THE ONE TO AIM FOR. - Milton Glaser
+- Especially when network effects matter in the user base, the density of users (in physical geography, interests, or in personal / professional networks) matters hugely and can aid user acquisition much.
+- Do time management not based on time availability and reserve, but based on energy availability and reserve. When there is enough time but not enough energy or motivation left, we tend to just waste the time on frivolous things.
+  - The best people use their extra, drained time to replenish their energy rather than continue to spend it laterally.
+- The only way to know how strong you are... is to keep testing your limits.
+- When tackling a big, open-ended problem without a clear solution picture (not a clear problem statement, but an observation of inefficiency), just try various solutions and iterate quickly  until one sticks (PoetryMe iterations)
+- "If you wish to not get stuck, seek to perceive what you have not yet perceived."
+- Project-unit rather than task-unit vision seems to be a more effective motivator. (Look towards and be motivated by "what we're making", rather than by "let's get this task finished".)
+- "Realization: I'm involved in too many things across diverse projects that I can't do 100% on everything -- I need to learn to delegate tasks and hire. I'm hitting a limiting point and I need to switch over to management if I want to scale as a person."
+- Compose simple pieces together to make a solution: "We should not seek to build software. Software is the currency that we pay to solve problems, which is our actual goal. We should endeavor to build as little software as possible to solve our problems."
+- "Software is a cost" and so is everything else. Solutions are not the answer, but the cost of doing business and eliminating problems the hard way because we can't actually remove them from life.
+- "If short-term profit isn’t the goal, long-term goals become much more realistic." - Ben Thompson, on Amazon Health launch
+- Services (horizontal) companies need to maximize addressable market (growth of user base), and [hardware] Products (vertical) companies need to maximize differentiation
+- Investment: regular portfolio rebalancing isn't just safe; it's profitable, because gains get redistributed while losses mean you buy more at the lower price. Practice it regularly.
+- "Use your privilege to create opportunities for others." - Shonna Dorsey, @shonna_dorsey
+- You can always think from a more diverse, more blank-slate, more open, more first-principles perspective. cf. Aarti's convo.
+- Why did you buy device or product X? A reply like "because it's an iPhone" isn't possible with any but the best brands. How do you make a product that warrants and satisfies with just that much exposition?
+- There's the adage that we are average of the five people with whom we spend the most time; take that to the next level: be around five experts in a given field for each specific field of expertise, investing/econ, arts, writing, music, technology, business, politics, etc. This ensures all of my strengths grow evenly rather than one growing at the expense of others.
+- If someone quoted just this line, is it well written and does it say what I want it to say?” If I can’t answer yes, I’ll rewrite that sentence. - Andy Newman
+- Steve Jobs: processes vs. content. What makes a company great is the content, but often as the company grows it tries to replicate processes for different content. Content makes a company great, whereas processes are in place to facilitate the people who have the content to get things done. Focusing on processes and keeping the same processes / improving processes is often misguided.
+- I do things quite well when I'm the sole one responsible for a task. I don't do so well when others are responsible for my assignment. Take it upon myself to indeed micromanage and make sure anything where I'm involved, I make it mine.
+- Conferences: before you attend, reach out to other attendees who would make good connections and reach out for a conversation both can benefit from.
+  - As a corollary, make sure it's visible that you'll be at the conference on socials, etc.
+- "Figure out what you are uniquely the best in the world at because you just love it. // And then just find out who or what needs that the most." - twitter/@naval
+- Rather than seek the best answers, ask the better questions.
+- Seek to become a part of open networks, connecting dispersed groups of people, rather than closed networks, in which I'm connected to people who are already connected. This exposes you to more ideas and diverse people.
+- "You should take the approach that you're wrong. Your goal is to be less wrong." - Elon Musk
+- "Aim to become not the best at what you do but the ONLY person who does what you do" - twitter/@rabois
+- Continually strive to make yourself more and more scalable, in more and more aspects of my work and services.
+- Y Combinator RFS: "This population has to navigate a world with substandard services, low quality housing, overcrowded schools, and crime in their neighborhoods. They are often unbanked and living paycheck to paycheck."
+- Kapawing: starting an Internet business -- the unexpected, unexplained stuff - https://www.kapwing.com/blog/unexpected-challenges-of-making-money/
+- Business is inherently about taking something scarce and scaling it into something abundant. That's how value creation occurs.
+- People are most creative when placed in the right context and fresh canvas with authenticity and trust.
+- Technology can make humans capable of great things, but tech in itself is not good. Humans have to use it for good. - Eddy Cue
+- Make arguments through measuring the lifetime cost of inaction rather than revenue of action.
+- The best degree of complexity is built on extreme simplicity. Optimize systems complexity; don't maximize.
+- Iterate on pricing and revenue model with the same intensity with which we tackle product iteration.
+
+- It's all about what people want, what people want to optimize in their lives. Not just what they're doing now but why. Use that to forge relationships, work or otherwise.
+- 1. Know your customers and 2. know your value. Everything follows.
+- If you measure it, it will improve. corollary: if your measure is a proxy metric, it will be abused.
+- "Most of us discover where we are headed when we arrive" / The end is in the beginning.
+- "What's not working at Pixar?" - Steve Jobs (instead of just asking "Any questions?"
+- Evan Spiegel: Rather than just iterate in the short term with data, sometimes you have to identify a longer-term goal and iterate on solutions with data as a guidance, not the goal. Otherwise, the horizon of focused is narrowed greatly.
+- Data isn't useful. Good decisions are useful. Data is a way to inform good decisions and it loses its purpose outside the context of decisions to make.
+- You can't predict how business decisions will end up; you  _can_ predict how you'll feel about decisions on value and principle. - Brian Chesky
+- When people hate you, talk to them. - Brian Chesky
+- "We need reserves to rebound from the shocks and disasters that take us by surprise." - Mayor of PGH, resilient cities strategy
+- Bezos: "in the short run, the stock market is a voting machine, in the long run, it's a scale"
+- Once product-market fit is reached, we need to look at the top of the adoption S-curve and determine ways to prolong it -- i.e. what's going to stop _everyone_ from adopting us?
+- Customers are bad about specifying what they actually want, but very good about articulating what they don't like currently. Focus not just on who comes through the sales funnel, but on who don't make it through, and ask.
+- I need to apply often to things that are beyond me currently. I need to fail and be rejected more often! Otherwise I'm not moving forward.
+- In product design, look for two really important things: 1) "desire paths", which are things that people do without them intentionally having been designed, hinting at what the market really needs -- think e.g. city streets, and which passageways "become" discovered because people use them where there should be streets per se; 2) "invisible asymptotes", or the opposite of desire paths, which are things about a product that people will just not to or not take, beyond which a product can't expand unless that barrier is removed. Amazon's invisible asymptote was shipping fees, whose wildly successful response was Prime.
+- Cost of complexity: Apple succeeded because of the minimized complexity to value ratio. They didn't offer maximum value but offered maximum c/v, which is what actually matters to consumers, especially those who are not professionals or early adopters.
+- Pre-PMF startup: "The best signal of product/market fit and differentiation or moat is the ability to raise prices repeatedly without loosing customers."
+- Pre-PMF startup: "Things to focus on include margin, customer churn, and organic adoption. If you have a high margin, negative churn business and a good acquisition funnel, you will do great 99% of the time. The 1% is due to competitive pressure."
+- "A brand is not what you say it is, it is what they say it is. In career, your personal brand is not what you set out to be, but what you become to others."
+- "I strongly believe we shouldn't make things easier, but simpler." - Hacker News, on product design. Easier is hiding complexity; simpler is removing complexity.
+- If you don't have retention you don't have a product of value. Aim to a value proposition / feature / product components that gets used again and again.
+- Find areas that will become valuable in the future but haven't been capitalized on and build skills there as both companies and people. That's skating to where the puck will be.
+- There's two things I view critical to success. One is when curiosity comes you don't stop until you understand the curiosity. Second is when an issue arises you don't stop until the issue is resolved. One is about learning; the other is about actions and applications.
+- One powerful way of creating products with built-in industry demand is to look at what kinds of moats incumbents have built, and how to productize the moats at scale to dissolve those moats, like what Stripe and Twilio have done.
+- Work and create like you're about to lose the opportunity if it sucks. Steve jobs? This is how you create such a high bar of quality.
+- "A company is great [just] because it is great." - Steve Wozniak, on the novelty of Apple's trillion USD valuation
+- Idea communication in arts, etc. doesn't need to communicate the whole idea in many ways (like shape and color and etc) but holistically communicate one idea even if the parts don't individually. In other words, arts and literature aren't about what the parts say, but about what the piece as a whole says. A piece can offer self-consistent ideas and questions despite inconsistencies within its parts. Perhaps the question is one about inconsistencies.
+- Scale erases individual intent and mission, so as a leader of an org it's the duty to align organizational mission and motivation with individual passions and goals so they don't erase each other but align stronger.
+- Information has no value outside of a decision to be made; knowledge does and that's the distinction.
+- On networking: operate under the assumption that for any given person, I can be their friend
+- Think of the value proposition as a contract between the customer and your company where the customer "hires" your startup to solve a problem. (SOM, Steve Blank)
+- The best startups discover a situation where customers have tried to build a solution themselves. This is a good source of information and research, and is a great sign.
+- Winners understand why customers buy.
+
+- Hold "dinner parties" that bring new people together and that I can invite new people to. This how you make *and* facilitate connections. (think Kenneth from Berkeley)
+  - Doesn't have to be dinner per se; it can be boba, lunch or anything in between. Maybe theme it, to give it something for people to talk about. This would be leveraging existing connections to grow connections.
+- Validate for: solvency, scalability (and market size), and virality (people want to tell their friends)
+- "One hack we've employed with our customers in interviews and through surveys: have them rank/prioritize our current features, and consider/rank a set of potential new features. It's much easier for someone to order a list (reaction), than to provide an explanation (creation). Not a substitute for a full interview, but a quick way to determine what your customer values." - HN, npollock
+- Great interview questions don't elicit answers; they lead people to tell great stories.
+- An alternative definition of MVP: the smallest set of activities to disprove a business model hypothesis. - The Lean Startup (Harvard Business School)
+- Business models on the internet (where scarcity is very low and marginal cost is zero) works by controlling demand, not supply. This is aggregation theory.
+- Give deeper, more meaningful compliments! Instead of just "I like your dress!" or "You look great today!", talk about something they'd care about more and remember. Compliment their person rather than their existence.
+- Teaching is about relationships. Students don't care what you know until they know you care.
+- No company whose CEO stops doing customer calls keeps caring about them.
+- Every day you either get better or get worse. You never stay the same. Try to get better every day, and don't get worse every day.
+- Pay attention to all participants in the ecosystem. That's what makes it an ecosystem -- the way ecologists think about environments or economists think about the economy. Especially pertinent to community-related jobs.
+- "Steve Jobs was not charismatic. He spoke from the heart compelling others to follow him." - @asymco
+- The type of information pushed to people in an organization shapes the culture considerably.
+- People who don't remember what you did will remember how you made them feel.
+- If something offers or creates real value -- something people really value, genuinely -- it's a matter of technicality to build a business off of it. If there is no real value, it'll be an uphill battle.
+- The combination of persistence and curiosity is a great formula for success. - Eric Schmidt
+- Never hire someone to work for you if you wouldn't work for them. - Mark Zuckerberg
+- Aim for every interaction to be an "11-star experience". That's how you create viral products and word-of-mouth marketing. - Brian Chesky
+- A startup is an idea, and then it’s an machine for making the idea and a machine for getting people to use the idea. A huge amount of what people mean by ‘a great entrepreneur’ comes in 2 and 3. Especially 3. - Ben Evans
+
+- The best way to open a conversation while networking is -- I think we know someone in common! (And make sure you do -- LinkedIn is great for this).
+- "Find 40 customers for your product in 2 weeks"
+- People only buy stuff from startups if they're desperate.
+  - Find those desperate users, and see how many we can get (critical mass). These become your early adopters.
+- If you haven't found it yet, keep looking. Don't settle. As with all matters of the heart, you'll know when you find it. - Steve Jobs, on finding what to work on, and on making decisions.
+- Beware of scaling prematurely. Until the business model and sales process is validated, scaling is a waste of money more than profitable.
+- Depth to work; integrity to passion. Bring rigor to every corner of your work.
+- Darkness cannot drive out darkness. Only light can do that. Be that light.
+- How do you delegate focus and vision? Repetition and vigilance. Settle debates until everybody's aligned, and constant repetition, all the time. Be the reiterator / reminder of the vision.
+- Try to be well-known among peers in the field of expertise in your area, and well-respected [Jemma Kwak, to Berkeley UX Design, I want to be for tech / entrepreneurship / VC]
+- A way to gauge product-market fit as a leading metric: Ask your users, “How disappointed would you be if you could no longer use the product?” PM fit generally happens around the 40% “very disappointed” threshold (out of very, somewhat, and not disappointed).
+  - Typically, you want to focus on users that have used the product at least twice in the last two weeks
+  - This “very disappointed” segment of your user base is also typically your ideal target market. Profile them and grow users in that segment.
+- Useful question: “What type of people do you think would most benefit from this product / service?”
+- Also ask: "What's the main benefit you get from this product?" and 'What's something that's holding you back from loving this product?"
+- Do not push for growth or scale before product-market fit is achieved and verified. All else will end in disaster, and this premature scaling is still far too common.
+- Advertising concept generation: Take a core idea and distill it down to its most essential, atomic part. Then demonstrate and show it, rather than telling it.
+- "1-in-10" rule of creativity -- in any creative work, the really great stuff is at most 10% of what we create. Expect and work with that in mind.
+  - To find the best ideas, 1) Spend time discovering the most important and powerful ideas behind the project, and 2) spend time really _polishing_ it, down to its most important and essential parts. Remember to use the audience's imagination as a part of the work -- imagination is often most powerful.
+- "Lose the ability to slip out of meetings unnoticed." - The Economist Ad Campaign
+- "A hallmark of good writing is that it answers more questions that it asks." Writing should expose its ideas in such a way that the reader discovers answers, rather than stumbles upon questions that don't get answered until much later.
+- In addition to conciseness and positive clarity and narrative interest, good writing is also devoid of potential ambiguities. "1" versus the pronoun "one", for example, is a common but unacknowledged source of ambiguity in scientific literature.
+- When we say "focus on the problem" (in a pitch setting), what we really mean is focus on the desperate users, and build your case on the desperate users to build out the picture of a hungry market.
+- I'm a builder/designer, so I tend to build early. That's fine if I like building, but when building a scalable business, validate the desperate users and the market at scale _first_, before building the product. Otherwise, it's a lot harder to convince yourself to pivot away hard.
+
+- Optionality: if plan A or core technology A fails at product-market feat or feasibility testing, do you have suitable fallback options to de-risk the venture?
+- Networking: turn slack and Facebook relationships into iMessage and texting and calling relationships. That should be the approach to meeting anyone who isn't already an iMessage / calling / SMS relationship
+- "Live as if it were the first day of your honeymoon and the last day of your vacation."
+- On talking to people: don't just connect with people for FIT, just connect with people to be friends, and to be interested in their everyday life as a human. You don't need to circle back with people just for work. Just connect with people, for sake of knowing people and building relationships.
+- Service is the rent you pay for your time here on Earth. - Muhammad Ali
+- Dan Simons, on writing openings: Entice your readers. Establish a controversy, present a real-world conundrum, or reveal a mystery. All are more effective than simply stating your topic because they develop a narrative thread, one that compels readers to seek a resolution.
+- Passion and mission. Driven by passion and mission. With heart, where heart leads. All the same idea.
+- Networking: Don't be coy when you're reaching out to someone you're really enthusiastic about. Let them know why you think they're awesome, and why you want to meet them. This is better than playing tricks to seem disinterested.
+- "A successful brand, then, is the promise and guarantee of a mind-shattering experience each and every time. It’s the e-mail you always read because of who it’s from. It’s the employee who always gets the cool projects." // "The pursuit of Wow in everything you do."
+- There's a certain amount of intangible know-how that Ferrazzi knows, and that I understand. When networking, "what would Keith Ferrazzi do?" is a good way to get that feeling.
+- The goal of human communication isn't transacting information; it's discovery. Discovery of the members of the communication. This applies to all kinds of writing and talking. And drives why people get engaged and don't get engaged.
+- Brian Bordley (SkyDeck): Engineers that are also great listeners, more than good salespeople, make great founders.
+- Focus on a specific user and design/build for them. Get traction building for a specific, niche use case versus starting with a general problem and marketing it broadly.
+  - Incidentally, this is the main advantage startups have over incumbents -- ability to focus on smaller markets and solve high-value low-volume problems first.
+- Is the venture going to change the status quo in the marketplace? Innovative ventures should alter the status quo such that it is no longer the status quo.
+- Josh from FRC: We want to understand what about your thesis as a founder is contrarian. i.e. why do you think the existing players are wrong, and why do you think a startup (and yours specifically) will win?
+- Don't just think about innovating the product, innovate the go-to-market.
+- Align ideas when bringing people on board. Ask what they want to work on vs delegating.
+  - Instead of asking, "I need someone to work on X, can you do it?" Ask, "We're building this product/initiative, and I want to know if you're interested in being a part of it. What kind of things are you interested in working on?"
+- Being an Aggregator doesn’t simply mean acquiring a large pool of captive customers, it means controlling the value chains such that suppliers come on to your platform on your terms because you monetize them better than anyone else, even as you capture the excess value.
+- Salary/money and wealth are lagging indicators of success. Passion + mission is a leading indicator.
+
+- Always with positive energy. Impart positive energy. Positive energy and encouragement is a resources I have a lot of -- distribute it as opportunity.
+- What are you studying to be? not What's your major? -- interesting.
+- Some software are tools; some software are services. Tools should be built to completion; services should continually be improved. Tools include languages, CLIs (TeX, cURL); services include SaaS/PaaS.
+- Even when leading large groups or fellowship programs, mentoring teams -- all of these organizations are composed of people. So get to know people as people first, as humans. And then guide them along and teach them. Don't make the mistakes I made at Fellowship 5.0
+- If someone is mad about your product, that's good. It means it's good enough for them to care and matter and have looked at.
+- Always have options B, C, and D, especially when key parts of your plan depend on third party partners (SafeBox)
+- Fighting monopolies: make things easy to adopt and sticky, against hard switching costs. Make something additional, not replacements (at first).
+- Campus events organization: Eventbrite / Facebook Event == 15% show up; Wed/Thurs events are best for attendance
+- Good love is "a friend of the mind", someone whose story you want next to yours, and your story next to theirs.
+- Software engineering == programming integrated over time and engineering scale
+- Investors don't base their decisions based on whether you're right or wrong. They invest based on whether you can figure out if you're right or wrong, and correct it.
+- When talking to companies or networking / coffee chatting in general, ask specific example question like Zach Latta. What's a specific example? What's a specific experience? What's a specific person? story? You learn a lot more from this than general principles, and it's very easy as well to tell if the other person is BS-ing it.
+- Like Kevin Kwak, as we explore projects to work on, don't be afraid to start and work on ambitious, research-y projects that really dig into the technicals; I tend to bias right now towards consumer-grade product- and design-driven software.
+- When looking for mentors -- don’t just share the company info, share team info since mentors are interested in the team itself, as much as the investors.
+- "As capital and advice get more commoditized, network becomes the durable advantage." - Sam Altman, stepping down from YC president role
+- Enterprise users don't buy products; they buy solutions.
+- "Banking rests on an illusion, in which banks transform risky assets (loans, securities trading) into risk-free liabilities (deposits, repo): People give money to banks expecting the money to be absolutely safe, and then the banks go and do risky things with it." - Matt Levine, Money Stuff
+- Core job of an accelerator / me in e.g. Fellowship is to help teams prioritize. What should they work on next? That's the constant question teams will be asking, and the question where mentorship/accelerators offers the most value.
+- Nonprofit accelerator with some good recs: Blue Ridge Labs, NYC focused - https://labs.robinhood.org/
+- "When getting ready to pitch VCs, founders often jump right into assembling a slide deck. I think this is a mistake.I’d suggest that you start by writing twenty headlines that sum up your startup, and only then build the slides." On forming a coherent narrative, not a stack of evidence. - @epaley
+- "Is this for me?" type list/FAQ is highly effective to identify and call out the target market on the landing page, identifying the problem and solvency you're attacking.
+- Pitching: Write 20 headlines about the company first, make sure those are the things people remember about you (your story) after the pitch. You won’t get many chances to make sure people remember things about you. (- Steve Jobs)
+- Introduction of writing and talking should frame a problem the audience (hero) should be guided thru the rest of the piece. This makes it compelling.
+- When connecting with people, really connect with people, at an emotional level (Sofi!). A surface-level connection serves fine for developing business connections / professional network, but if you want to move out of that rut into something beyond work, you need to build more personal, emotional connections.
+- Thing to learn about entrepreneurship from Hank Green (who inexplicably has exited multiple companies): build things to help people first, then improve. All else will follow.
+- No-code prototyping tool from WorknGo: https://bubble.is
+- It is impossible to overstate the power of aligning incentives.
+- Charisma and persuasive influence and impact like Alessia-Cortez comes from passion. Embrace it and use it to move minds.
+- Community building / team building / organizational leadership: always strive to build a community that people you admire would want to join.
+- If there's a way to hedge the risky personal investment of launching a startup company, it surely must be to do it with people you love and respect. - Guillermo,  ZEIT
+- Organizations don't innovate and don't create impact. Organizations bring people together. People innovate and create. The primary motive of an organization should be to gather the best people, then get out of the way, so people can do what they do best.
+- There are two kinds of innovations. The kind that emerges from relentless pursuit of vision, from a single person's imperative; and the kind that is built from a team, a group of people, persevering against large, seemingly intractable problems. We need both.
+- Strive to reach Sun's Bryan Cantrill's level of integrity, respect for others, passion for engineering, and standard for quality of work. This is a gold standard (not the, but a gold standard).
+- A team's greatest asset is always a world-class team. The founder's task after delivering the initial product is to deliver the best team for the company.
+- Company formation 83b Election filing for taxes. Physical mail 30 days of share purchases by founders.
+- It's typical for each early fundraising round to add 20% dilution to existing shares.
+- C-corp (Delaware) is typically recommended and Stripe Atlas / Clerky is good, but if you're going to make profit (that'll be taxed) relatively soon and you don't care about giving away shares, LLCs make a lot more sense. (e.g. Codeframe Inc.)
+- Sequoia: every stage, a behemoth but kinda well known for not being the most founder friendly; Greylock is Seed thru Series B, but also not the most founder friendly
+- Find friends, and become friends. Not making friends. It's not something you create or conjure from nothing, but something you build over time and with fortune.
+- Everyone wants to do content marketing until they find out how expensive it is. It's a whole new product, with its own market research distribution, target, problem/solution fit, and PR backing.
+- PG: how does this become bigger than Google/Apple? You can take anything frivolous and, if it provides good value, it can be big. Figure that out.
+- If you can raise extra money, only raise more if you have a proven / confident business model and have a plan for how you can use the money now to mitigate existential (tail) risks.
+- General thought experiment, but specifically useful for missions / acquisitions: if you could acquire any big company in the world to further your startup's work, which would it be?
+- The great thing about startups is the rawness of problems -- there are no unnecessary layers of abstractions between you, the founder, and the problem itself. And you should try to keep it that way as much as possible.
+- From Cal Hacks / The Boiler Demo Day thoughts: "Startup is not a joke. That's why I'm not starting one now and it seems a little hypocritical that I'm leading others into that life. I think fellowship should focus more on Codeframe/IndieHackers type businesses. That's Fellowship 6.0. Startups are fucking hard. Don't convince people it isn't. Don't be another accelerator."
+
+- On colleges and career paths: "The individual has merely acquired stamps of approval and has acquired safety net upon safety net. These safety nets don't end up enabling big risk-taking -- individuals just become habitual acquirers of safety nets. The comfort of a high-paying job at a prestigious firm surrounded by smart people is simply too much to give up." - danwang.co, Girardian social dynamism.
+- SaaS in linear growth can't work under $40 monthly price point per customer, especially when running as one-person businesses.
+- Everyone comes to LA to work because LA is the Valley of the media industry. With every city, what could this city be the Silicon Valley / Hollywood of? It is unique to each city. Don't try to turn every city into Silicon Valley; for every city, find what it could be the Silicon Valley / LA of.
+- I might not have someone to love and work to make happy currently but I do in the future -- Work for my future love. Imagine.
+- The world is probabilistic, and a world full of incomplete information like VC especially so. Think in probabilistic terms, not absolute positions or opinions. [from AllDRF]
+- We, especially at the beginning stages of our careers, tend to outsource our confidence and insource guidance; we should insource confidence and outsource domain knowledge and mentorship / guidance.
+- If you're strapped for budget and pre-sales, don't try to gauge fit on A/B tests on social media top-of-funnel things with paid acq. Do interviews instead to get to fit and first sales. ("I spent $10 on ads and got 4 clicks." isn't useful.) First get to sales, then optimize.
+- Macroeconomics: think about leverage as a macroeconomic metric across time in an economic system, where leverage allows for liquidity and growth without structural productivity gains. In early 2019, now that we've exhausted existing leverages to get to sustained late cycle, we need more sources / room in new ways of leveraging for risk to grow more.
+- When you have a sustained (awkward) silence in a conversation, that's when unplanned things off the top of their head come out. It's useful for learning more.
+- Zack Kanter's "What is Amazon?": "And so, circa 2002, we start to see the emergence of a pattern: 1) Amazon had encountered a bottleneck to growth, 2) it had determined that some internal process or resource was the bottleneck, 3) it had realized that it could not possibly develop and deploy enough resources internally to remove that bottleneck, so 4) it instead removed the bottleneck by building an interface to allow the broader market to solve it en masse. This exact pattern was repeated with vendor selection (Amazon Marketplace), technology infrastructure (Amazon Web Services, or AWS), and merchandising (Amazon’s Catalog API)."
+- One effective way to think about conflict and community organization is the Girardian view of memetic violence: https://danco.substack.com/p/snippets-2-episode-2-a-girardian
+- Intimidating progress. When talking to investors, your progress should be so surprising that they're afraid they're going to miss the opportunity to invest if they wait.
+- @mwseibel: early indicators of progress aren't reliable indicators of future success
+- A useful way to ask for feedback: we're running out of resources and have to cut some features / parts of the product. Which would you have us cut first / never remove?
+- Make it till you make it -- creative mindset.
+- Especially when pitching: GTM and current product as wedge into broader market with larger opportunity. How could it be? How certain / easy is it? Are there moats to be built up here?
+- We need to tune for hyperparameters / meta factors in our learning and adaptability since we can't just learn stuff for now, in the present world, and retain it and have it be relevant and reliable indefinitely into the future. Things like building a habit of reading, learning languages -- what else is a meta factor in learning, first and second derivatives in learning? Do those as goals, and write about it. What are the derivatives of learning?
+- In sales conversations, to start, the point is not to make a sale, but to start a conversation to learn about the customers' frustrations (in the problem space). "...By asking about frustrations they can start easily and you can easily ask clarifying questions about how they’d like them to be solved. // I try to get to get on a call with anyone who responds. From there I can talk more and ultimately demo ConvertKit."
+- When prospecting first customers, the benefit of narrowing down the niche significantly is that you can create an echo chamber, where your product is in conversation, and grow out from there with momentum. "the goal is to get so specific that through Google searches and following links you can list out all the major customers."
+  - "Don’t move on just when you are starting to gain momentum." -> Stick with niches and move to adjacent ones, until prospectives come to you and a significant portion of that niche wants you.
+- If you notice one prominent reason customers keep saying no, your top priority should be to eliminate that no matter the cost. Even if it's a thing that doesn't scale (like ConvertKit's manual migrations from previous email solution), with low enough churn, the math works out.
+- A useful way to get into conversations with clients who never reply is to start providing value before the conversation.
+- Tinder does upsells perfectly -- timely, relevant, based on need or demand indicators and timing, give user options.
+- PG: one of the best ways to get a student interested in learning something seemingly difficult is to quickly get them to a point where, through pattern matching or otherwise, they can do things that were seemingly impossible. Programming is this way, noticing patterns in math that generalize to large numbers (what's the last digit of 2^4384?) is another.
+- Amjad: Learning should be a process of Invention by Need; you need something (like a load balancer in repl.it), you create the concept, or feel the need or the problem it solves, and then you learn and appreciate how this concept has been created before and polished up to today in history.
+- UX Design: think of UX / UI in terms of the user experience holistically /across devices/, not just a 2D interface on a single smartphone or computer. This includes everything from multi-device support and compatibility to watch notifications as UI to the workflows that occur cross-device. We're in that generation now. (cf. Apple Watch WWDC App talk)
+- @amasad: Most VC's and partners will bias towards relatively safe paths ensuring quick revenue and profitability, e.g. taking Repl.it towards profitability by selling to software companies or schools. The bigger advances come when you have the resources and conviction to be more ambitious, to say we have enough traction, so let's dream bigger and take even bigger optimistic risks to rewrite how software is built and run. And I think that's a great way to grow a mission -driven venture.
+- @mwseibel, to people who are "passionate about" a broad field like environment, architecture, education, etc. Find your _specific passion_ (my term). i.e. You aren't just passionate about that general field, if you're genuinely deeply interested about something, it's because there's some personal connection, history, or other very specific, anecdotal reason that got you into it. Instead of just solving something vaguely in the field, really find problems worth working on in the specific passion that you have. Solve for the person / person you actually care about, etc. This is relevant for my Simula-related ideas, and Simula is a direct example of how Spark < Simula because it's closer to my specific passions.
+- Autonomy, Mastery, Purpose. Great organization and great leaders lead by granting these to team members. - a @bcantrill talk on leadership and technical principles
+- Assuming a leadership role can only happen organically. Start by being an exemplar: show up and finish your work on time. When appropriate, jump in and be the hero. Others will then naturally ask for your help and you will de-facto be a leader.
+- Tom Preston-Werner's light vs. dark rooms analogy to innovation: frequently, the frontiers of discovery and new inventions are just at the edges of what's known. In a world of a million rooms, only a few are lit and those are what we know. To get to what we don't, we must first light up the rooms adjacent to the ones we have lit already. So frequently, as lights are turned on, many people will turn to similar formerly dark rooms to light up -- that's why there's such a thing as the right time, and why discoveries like Calculus get made contemporaneously.
+- Tom PW, in response to how to know what works in a product / organization and what doesn't -- you gotta be attentive and looking for problems. If you keep your eye open and pay attention, you'll notice problems and see what works and what doesn't. Have one-on-one's, talk to customers, see how people are working and living, and if things aren't working, it'll be on you to notice it, because if you're paying attention, you'll see it.
+- Complex systems are inherently dangerous, and have defense and safety in-depth. That means it tends to run day-to-day in degraded mode, because a single failure is not enough to harm it. That makes it all the more dangerous when the last point of defense falls.
+- "Linus has demonstrated incredible long-term effectiveness as a software developer, both creating and then shepherding two of the most important pieces of software of the last 50 years. But he seems qualitatively different than Ballard. // I'm trying to put into words what the difference feels like. Git and linux demonstrate, for Linus, great intelligence but not genius, the way Ballard's works do. And on Linus' side, git and linux demonstrate leadership, pragmatism, and a tremendous understanding of how to actually drive a large project forward over time, which Ballard's works don't." Also, John Carmack. Technically, these people should be my inspiration in engineering and hacking on side projects.
+
+- Enterprise is ultimately about people, caring about their personhood and lives, and about what we share in the human condition. It's about principles -- honesty, integrity, kindness. These should be core to the forefront of any venture, a la Bryan Cantrill, harkening back to _Life in a Day_.
+    - Business is founded on empathy. The foundation for empathy is the common human condition and experience, especially outside of our daily social norms. These conditions are not found in trends and local comms but in travel and reading / the arts. That's why it's important.
+- Functionality is an asset; code is a liability.
+- Good interview and team leading questions: what's a time when you worked really well within a team and a time when you didn't fit well and couldn't get a lot done? Then optimize to be like the former and avoid the latter.
+- Being aligned with the business will ship products quickly, but investing in good software engineering will last longer and stay more efficient and reason-able over time.
+- Find your village. Be around and talk to other founders. These will help with mental health / emotional stability while being an early stage founder with the requisite stress levels.
+  - Reflection and journaling also helps, as well as celebrating small wins.
+- The four conditions that characterize wise crowds / collective intelligence: diversity of opinion, independence, decentralization, and aggregation. Not one is more important than the other, and all are necessary.
+- Having a bunch of smart people doesn't automatically make great collective intelligence -- often, collective coverage (diversity of background and opinion) is much more useful here. [High individual IQ != High collective, organizational IQ]
+- Bill Walsh: concentrate on what will produce results rather than the results, the process rather than the prize. // You are putting yourself on a slippery slope when you start believing that the outcome of your effort represents or embodies who you really are as a person -- what your value as a person is. [There's a lot between the process and the results that are just out of our control.]
+- A leader should inspire and motivate through teaching people how to execute their jobs at a high level, and hold the bar high. Conaway-style.
+- The craft of entrepreneurship is the delicate balance between caring deeply about a problem and caring deeply about a product that relieves it.
+- @zrl: "Make a pitch only you can make."
+- @collinmathilde, @frontapp" - "Leverage your data to tell a story about what the business has achieved and where it's going. Metrics are necessary, but they are too often shared without a narrative arc."
+- @sashaorloff - "Try and identify all the questions you don't want investors to ask -- and get answers to them. Investors try to gauge how you handle problems, especially the hard problems."
+- Investor relationships can easily last 10+ years -- try to pick the right ones.
+- "Happiness is the absence of the striving for happiness."
+- Authenticity makes for even more powerful stories than simply hero's-journey good storytelling. 100R's story is appealing because it is authentic.
+- Ben Thompson: "Services (horizontal) and hardware (vertical) companies have very different strategic priorities: the former ought to maximize their addressable market (by, say, making a cheaper iPhone), while the latter ought to maximize their differentiation."
+- Compliment the people around me more in the presence of other people. Like Jean-Claude in reference to my side projects, all the time ... same with Shrey @ DRF.
+- "We only have what we give." - Isabel Allende
+- A lagging indicator of a great manager is that they successfully attract top talent to their team / to work for them.
+- Han Yuan on managing junior vs. senior engineers; Junior engineers need to be supported by a great team and a good mentor, and managed from a mentoring capacity; senior engineers have evolved into different archetypes and have developed knowable strengths and weaknesses, so the manager's role becomes to be intimately familiar with their working style and strengths/weaknesses from a technical capacity, and be able to mediate their work such that they can work effectively.
+- Investment Framework: what are the assumptions that must be true, in order for this company to succeed, by whatever our definition of success is? Rank and study those assumptions, the "need-to-believe"s of investing in the company -- do you believe them?
+- Question for founders: "what are you working hardest on right now?"
+- Bringing out the best of founders by challenging them, asking them hard and unseen questions, being their co-conspirator. Same with people in general -- bring out the best in people, and they'll enjoy your company.
+- YC interview training app: https://jamescun.github.io/iPG/
+- Hinojosa: how to read dense, literature / academic texts: Take it paragraph by paragraph and dissect and understand / summarize each before moving onto the next. Also book reviews for academic books are useful, because they often contain summaries / abstracts as they're intended for other scholars to be able to read reviews and decide whether to read the whole book or not.
+- Expensify mission: Live rich, have fun, save the world.
+- In a business network context: a value to maximize for is amount of helpfulness per unit time spent with someone. Kat: talking with Zach is the single highest ROI activity I engage in. Strive to be like that with everyone in my life.
+- Limit risk and allocate it like capital. Otherwise you overcommit.
+- There are people who build companies to exit and build companies to build institutions. David Barrett: we have lost the will to do the latter as a Silicon Valley tribe.
+- It's important as a product owner/founder/ceo to balance focus between product quality / vision / solvency as well as business and opportunity/market.
+- A market as an autonomous machine and optimization system, building problem solving systems on top of markets.
+- The House Fund II event: Not about identifying technology trends, more about knowing when the market is ready and getting go-to-market right.
+- When describing myself / my story, it's all about storytelling. Although I don't think about it this way much (for my own good), my story of doing cool stuff in high school / gap year / working at Hack Club / repl.it via cold email, side project legend + traveling a lot... all of this is immense social capital fuel and can easily be spinned into an amazing narrative the first time I meet anyone. I have a lot of depth to my story, leverage that and use it to my advantage to build allies and advocates. When doing this, mindfully cater it to each audience -- some people are more impressed by some parts of this story than others.
+- To keep productivity / momentum long term as a working / creative person / maker, make sure we are consistently doing things that are not urgent but high-impact/important, even at the cost of missing some urgent things. This builds long-term momentum, and the burnout of fa19 was because this got lost in the Hack Club Bank shuffle.
+- When building arguments, especially complex ones about abstract ideas, always try to ground them in reality, in concrete experiences, or anecdotes -- the brain processes them better, and I have a tendency to write high-brow arguments without coming back down to the ground level and examining primary sources.
+- Basecamp's general guide to bootstrapping a company, from technical to management: https://basecamp.com/shapeup
+- Think not in terms of finding for skills that fits a JD, but instead finding a person that fits a role. When hiring, skills can be taught; you're really looking for the right person for the job, and the person goes way beyond the skills they have. Similarly, what kind of person am I, and what role do I want to play at companies?
+- In designing both software systems and organizational, human systems, the Unix Philosophy: single responsibility abstractions that compose well together through agreed-upon universal interfaces. It leads to higher debuggability, better modularity, scalability, and adaptability.
+- It's natural when designing software in a new domain to have to rewrite a couple of times: understand the problem, understand the solution, get it right, in this order.
+  - The first version is always an exploration of the problem domain. - @marcus_holmes, hn
+  - There isn't a "best" architecture -- architecture has to be shaped by the problem domain, and nothing can replace having designed a system once in knowing what that looks like.
+- Good storytelling is the ability to take something that you are deeply moved by, and communicate it to someone without context. - @zrl
+- "You first 10 years of work are a journey to find the the people you want to work with for the next 50."
+- "Effective organizations and institutions are motivation distribution systems." - Zach Latta
+- The future of community is a hierarchy of networks. Hyperlocal networks, connected by the Internet to make a network of chapters, like Nerdfighter meetups, Hack Clubs. This is also the future of work.
+- Self-similar human systems. In the same way that neurons self organize in interesting ways to communicate effectively as networks of networks, humans also self organize in layers of networks and communicate in that way. Stretch this to the idea of "activation energies" for human communication and message distribution in human networks.
+- Tom from GitHub's early days: +1, +10, +100 method of hiring. Everyone on the team needs to be at least a +1 on a new hire, and at least one person has to be +100.
+- Pace of execution is the highest-order term in determining the long term trajectory of a startup, and if it's high enough, other terms become negligible. Phin: "How many bullets you fire, and how quickly."
+- In cofounder relationships, some people are driving, others are being pushed harder than they've ever been pushed before, both are good, in their own ways.
+- Startups are usually messy, but good ones do a few things perfectly. As long as that's set, other things can be just good enough.
+- Brett @ FRC: Successful founders have a knack for altitude-shifting between high level abstracts in the market / frameworks thinking and in the weeds details and attention to those details. High level motivation <-> the mechanics of the chess game.
+- Isabelle Li: DRF, Stanford, TSwift fan, big into solo traveling, might have insights to share re: Fearless.
+- Storytelling: "Every character should want something, even if it's just a glass of water." Great stories are breat because the plot is driven by character motivations, not the other way around.
+- "Remember that, sooner or later, before it ever reaches perfection, you'll have to let it go and move on and start to write the next thing." - Neil  Gaiman. Engineering, startups, life.
+- "There's no win and no fail, there is only make." - Sister Corita Kent.
+- "Your mind is like a compiled program you've lost the source code to." - PG
+- "Writing is the most scalable professional networking activity - stay home, don’t go to events/conferences, and just put ideas down. Building your network, your audience, and your ideas will be something you’ll want to do over your entire career. Think of your writing like a multi-decade project." - perell.com
+- Plan meticulously; execute spontaneously. - TLT, 2015
+- Data first, software in service of data, deployment in service of software. This was the guiding principle behind the design of Polyx + Noct, but is also a generally great software design principle and rings true with what Linus Torvalds talks about re: data structures.
+- "Hacks, then Idioms" as a general rule in building software based products -- observe common hacks, and find an idiomatic, dogmatic solution with better ergonomics. - "React team principles"
+  - As a corollary, "a flexible hack is better than a poor but entrenched idiom".
+- When programming, especially with data-oriented types and around data structures, design checks and validators to parse, not validate. Functions should return data structures that preserve the proof or evidence of the assertion being checked, not just a boolean. Booleans are dumb, whereas a type that guarantees some truth or a data structure that contains knowledge is useful. c.f. https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/
+- @rauchg (Zeit): the best horizontally scaling applications (products) are really just productized forms of very specific data structures. Excel / spreadsheet is a data structure, Notion is built on this advantage, and Roam Research follows suit. The data topology is flexible and user-defined, allowing easy composition.
+- Active vs. passive work and productivity. In more entrepreneurial and managerial roles where your work involves responding to other people's requests, it's easy to think that you're being productive because you're responding intermittently to everyone else's requests, but really, it's inefficient and you won't get anything done of the work you need to get done. The solution here seems to be to be *active*, not *passive*, controller of how you spend your time. Spend your time consciously and do deep work intentionally, pushing back on the urge to respond to requests immediately. When I'm deep in programming or creative work, everything else falls to the sidelines. I need to be in that mode with any kind of work when I want to be productive, not just creative / software development.
+- "We were all huddled together, as wet as water could make us." - Ben Franklin, in his autobiography. I don't know what the context of this recollection is, but I think if we imagine it set in the brink of the revolutionary war, just before a victorious battle, we can imagine something similar for a startup trying to cross the chasm, running out of runway or facing a hurdle. The team binds together; there's hope.
+- You don't say "Good luck!". You say "Don't give up!". - The Roots, in "The Fire"
+- "Get some paper, put it in a typewriter, type FADE IN... and keep typing." - Peter Falk. Don't get tied down preparing. Just create.
+- Pirates of the Caribbean + cs-syd.eu: "So, what do you think? Does Captain Jack Sparrow plan everything out? // I think he doesn't need to plan a lot out. He has this compass that points to the thing he wants most at all times. Anyone who knows me knows that my advice on anything starts with "What do you want?". Imagine of what kind of value that compass could be. If you know what you want, or you know where to go to get it, you can make everything else up as you go."
+- "Sometimes magic is just someone spending more time on something than anyone else might reasonably expect." - Raymond Joseph Teller
+- Motivation is not a constant nor a property of an individual, but a product of circumstance and effort. It needs to be continuously replenished and adapted with the surroundings.
+- Productivity tip I learned the hard way: when you feel like there's a backlog of work of varying importance and urgency that prevents you from getting deep, good work done: every day, pick one *important* task that you'd be happy to have completed, and then no matter what else you do during that day, make sure to get that one important task done. Continue until it feels natural, and then try two, three, etc. The important thing is that momentum in productivity comes not from hours worked but from the weight of the tasks completed consistently.
+- In the long term, execution speed / iteration throughput and pace is the overwhelming growth coefficient for startups, and execution speed / learning rate is also of similar significant for personal growth and productivity. Try to keep it high, and try to keep it focused on important things; do one or two important tasks every day.
+- "Fear not dying. Fear not living." - MBX
+- Time spent thinking deeply is not wasted time...In this new and different kind of work, I need to spend more time thinking and less time making, and tweak my internal measurement of what feels like productive work. It's gonna feel weird at first. But the things I make need to be the right things, and the best way to ensure that's the case is to spend more time thinking about what I put on that queue. - thesephist.com/posts/thinking/
+- The best marketing campaigns sell products as the vehicle for an idea. Girls Who Code; Think Different; Just Do It. Self-branding is also an exercise in being a vehicle for an idea.
+- Ira Glass on storytelling: two basic building blocks
+    - First, anecdote. It's a sequence of actions with thoughts/feelings interjecting. One thing leading to another, it should feel like a train with a destination -- it's obvious that there's a destination and you're heading towards it. No destination = no good.
+    - Second, question (bait). You want to constantly be raising a question.  It's implied that any question you raise, the story's going to answer. The number of open questions should never be zero.
+    - A good story also has moments of reflection that answer, "why am I listening to this story?" interwoven with the story itself.
+- Lisa Su, AMD CEO: ambitious companies should make long bets and check in on them frequently.
+- "Here's the thing most people don't understand about learning: most of it comes down to love, not knowledge acquisition. If you love what you're doing, it doesn't feel like work. You don't need tests, or homework, or arbitrary measures of success to figure out if students are actually learning. It's so blatantly obvious -- you can see it on their faces. // And this is the fundamental problem with classrooms: they don't facilitate love. They don't create community and rarely create excitement." - @zrl, Zach Latta
+- Until PMF, traction and revenue numbers should largely be ignored -- they're distractions that'll lead to prematurely pushing for traction and marketing before PMF.
+- "I'll do whatever it takes to win.  Whether it's sitting on the bench waiving a towel.  Handing out cups of water to my teammates or hitting the game winning shot." - Mamba https://t.co/p1BowN840D
+- Work-life balance and full-time work is about work efficiency, like compute performance is about efficiency and not absolute numbers. Get more efficient at work, and I can do so much more while working so much less.
+- Steve Huffman, Reddit co-founder: A mistake in early days of Reddit was that it was PG homework, but was not driven by vision. They had mad PMF (product was going horribly, but kept growing organically) but didn't recognize it as a result.
+- PMF is when the company is doing everything wrong and the product is still growing. Reddit had PMF from the start but didn't recognize it early; Hipmunk had great execution, team, leadership, early traction but negative organic growth despite everything else. No PMF.
+- Good communities are feeling / empathy / love transmission and distribution systems. The better you architect systems for this, the better everything will fall into place. The question is how you do this -- sharing event photos, secret Santa, IRL meetups, etc.
+- Enterprise is a human endeavor. Products are extensions of the team that built it. Consequence: products leave impressions and feelings on people using them. What feelings does your product leave your users with? That's what gets remembered and reviewed.
+- Software ages and rots. Data structures and data abstraction / interface design does so much much more slowly. So encode your domain knowledge in your data structures, not your program logic, for max longevity.
+- There is disproportionate value is in connecting with community leaders who can be internal advocates in strong communities, especially ones that are harder to come into as an outsider.
+- People like jumping on to moving trains; if a startup doesn't have any forward movement, when nothing exciting's happening, no great idea can coerce people to join. But even if it's a high-risk venture, if the train is moving forward and upwards quickly, it's much easier to recruit. Change every week attracts good people.
+- Luca Consentino: The core US payment infrastructure is difficult to disrupt. So consequentially, there are two kinds of payment processing startups -- (1) improving the last-mile experience for consumers and end users, and (2) building more efficient infrastructure or infra that works better, i.e. Stripe and friends.
+- Social class is about shared human contexts in experience, only about money at a primitive level. Parasite / Nobu: What really creates the inability for one to move more than one above and one level below your social level you're born into, is that those are the only ones with overlapping experiences, on the good days and the bad. Beyond that, the people have different problems and different habits. So social mobility is about cultural mobility, which is stronger in large diverse urban cities.
+- Luca on poverty: there's different experiences there, that you can't natively differentiate if you're in a higher rung of the ladder. Living on $2 a day, you have a completely different set of problems in your live than living on $20 a day.
+- There's a lot of value in making the cost of mistakes zero. This encourages experimentation and play, which is how people learn best and invent undo / redo, git histories, all are like this. Schools should always be like this.
+- What makes Go's language design great is that it's _orthogonal design_ -- all the concerns and features are orthogonal to each other in their effect, and they don't conflict or cause redundancy.
+- Good communities: there's pressure to care if you're in the community, pressure to join the community if you care. Care about what? That's what defines the community.
+- Nonprofit especially, but also higher level in enterprise at large: in absence of business motivated growth goals, we should come back to mission oriented goals and motivate our direction from mission rooted problem statements. What are the biggest problem spaces in the world around our space and how can our products and resources address them? How can we build products that people really want, that dovetail off of this and leverage opportunistic problem gaps in the market?
+- A tool as a validator for capability, self-confidence/belief: The existence of a tool validates that you can do it. There's a whole app for it. (Hack Club Bank, working in the real world, participating in the moneyed society)
+- Amjad, on productivity: Split todo list into two columns: (1) defense: emails, chores, fires (2) offense: coding, hiring, managing. If I'm spending more than 25% on defense a day then something is wrong. Need to step back and debug.
+- From the London Design Museum: everything around us is designed / can be viewed from a design perspective, and it's useful to examine environment of life as such. I can build these objects that go in a museum. The Pebble watch, the iPod, etc. Live and work with a designer's eye and mind. Design underlies everything, as does community and language and technology. Strive to build objects and products that can proliferate like the iPhone, but also be museum pieces like the iPhone.
+- View the process of getting to PMF as debugging (not just iterating or "tuning" as Bryan Cantrill compares). Iteration of questions and answers, before finally hypothesis, and then testing.
+- In conversations: Childhood stories when naturally elicited tell so much about people, often the things you'd never learn about any other way, often about fundamental things about the person that adulthood would have masked over. Extraordinary people have always been extraordinary.
+- Community evolves by continually forking and merging ideas and beliefs -- a la memetics.
+- Having PMF should feel like when COVID Hacks launched -- subpar product, little marketing, little direction, but fills a demand, so huge organic growth.
+- User interviews: first time, last time, best time, worst time -- be specific in experience, ask why questions.
+- It's tempting to spend more time accumulating optionality than spending it (by taking risks, which subtracts optionality). But an ideal path is a balance of risks and optionality such that on balance you have enough options open, but you aren't constantly in inefficient surplus of optionality. And this equilibrium changes based on circumstance, age, economy, etc.
+- "To be free, to protect those we love, and to be willing to sacrifice ourselves for others." - CinemaSins, Oblivion
+- Innovator's Dilemma: during product-market fit search, it is critical that the team work to discover a new market whose rank-ordering of favorable product attributes favors their product that's inferior by the standards of the existing mature, large market.
+- You'll never know when this time is the last time, when this exception is the new normal, when this person is the one -- until it just _is_.
+- Product design excellence - https://thinkfractional.blog/secret-ipad/
+- Call Me By Your Name, Marriage Story - feel things. to feel is human. we're not here for anything if not that. Life demands to be felt, not just lived or passed.
+- kernio: Cofounder should have your trust -- find someone who you can trust to make decisions on your behalf when your'e not in the room.
+- NerdWriter1 on _Arrival_: Denis Villeneuve is an artist in complete mastery of his craft [of film], and the audience is in comfort in the hands of mastery watching the work. Strive for that level of control and mastery of craft.
+- A useful way to ask / give advice on a product or startup / business model is to ask, if you were a competitor, what would you do?
+- System complexity is a conserved quantity -- complexity has to live somewhere. Either in the design or in the operator / user's metal model. When making a reusable component or library, anticipate and leave room for complexity in the user-space composition rather than trying to lock users into simplified models in the name of ease of use and magic.
+- "To hell with dignity, I'll leave when the job is done." - M
+- One way to think about MVP is to "scale down" an idea to be implementable with basic tools, for a single customer, for a single iteration, for a single instance. And then scale it back up with demand.
+
+- In thinking of composable, atomic interfaces, one great analogy is a system (Plan 9) that exposes textual interfaces to bare system calls as command-line interfaces, with the pipe and text manipulation capabilities of awk/cat, etc. Good choice of intermediate representation (structured text), plus composition primitives (text pipe, basic text tools, UTF/ASCII).
+- Everything you own leads to either revenue or cost. Own things that lead to revenue, minimize things that incur costs. Done right, this also minimizes dependency on salary (ownership of skill as the most valuable asset). -Rich Dad, Poor Dad
+- A thing that Conor White-Sullivan did really well is just engage and interact more often with the users and the niche community behind Roam than any other founder, and indeed any reasonable founder. Early adopters notice this, and it helps spotlight the best use cases and best case studies for the product in an organic way. This is a key advantage that he had as a founder. Be like Conor.
+- Daniel Ingalls: "If a system is to serve the creative spirit, it must be entirely comprehensible to a single individual. The point here is that the human potential manifests itself in individuals. To realize this potential, we must provide a medium that can be mastered by a single individual. Any barrier that exists between the user and some part of the system will eventually be a barrier to creative expression."
+- On doing things that don't scale, and the fact that changing / inspiring / impacting the world requires and consists of instances of first changing / inspiring / impacting individual people deeply - https://linus.coffee/story/atoms/
+- In fundraising, founders should look for people who believe in the company and can brainstorm with you, not investors who are picky about unit economics / retention, etc. You have your cofounders to be collaborative; you want your investors to be more supportive. Then, chase good people who are investors.
+- Don't compromise on your first hire, even if it seems difficult -- this will carry through the rest of the hires.
+- Don't mistake an interview for a conversation -- you are there to learn things and find things out.
+- Topics vs. Stories: writing without an opinion, take, angle, or perspective is just a topic. People don't read topics, they read stories. Build stories in writing -- you're not writing a textbook.
+- David Greenspan: In small startups, a common failing is that the power is too centralized, with a visionary CEO basically making the final call in every decision. As much responsibility should be pushed down the pipe as possible; we need a team of leaders.
+- Remote/Zoom Workshop notes - from Hack the Fog Cloud
+    - In the beginning, make sure people know how to thumbs-up / clap.
+    - Make sure people have cameras on, if not audio. Makes interactivity much better.
+    - Level-set in the beginning -- where are we in terms of experience? What kinds of projects are people working on (hackathons)?
+    - Motivate things we discuss. Why is this important?
+    - Live-coding is good for longer workshops b/c we build understanding gradually; code review good for shorter workshops.
+    - If desired, explicitly invite others to follow along. Ask questions about what they're seeing, where they are in process of following. Don't assume.
+- From newsletter conversation with Aadil: It's easy for my conversations with most people to just endlessly circle around tech and startups that I cherish the people with whom we can escape that death spiral and talk about things like relationships, travel, family, make jokes about people, and not have to explain or defend myself for fear of being misunderstood. So maybe that's it -- people who understand each other at a deep enough level not to fear misunderstanding.
+- Human ambition grows proportional to the size of the environment. - Keith Ferrazzi.
+    - Corollary: to get every student to dream and pursue big, give them the canvas fit for it, made for them.
+- Never Eat Alone: the highest untapped potential in networking is always at the fringes of your close connections, the ones that you know but don't know well. Focus on converting here, and expanding the frontiers of your network here.
+- Never Eat Alone: Enrich your life by including others in your daily work, volunteering groups, dinners, quick bites to eat... introduce people to other people, and build a habit for the group of bringing in welcome newcomers.
+- Scaling intimacy: growing a tight-knit community is effectively scaling intimacy. Intimacy doesn't scale. The only way to do this is to have a large community that's really strands of fibers of smaller friend groups, that are connected together densely.
+- Approach to HR / Recruiting should be: to make the candidates feel supported to be successful through the recruitment process, kind of like being coached through the pipeline.
+- Connecting isn't just a matter of being open and extroverted to everyone; we should mirror and match how open the other person is, and perhaps gradually open up. Otherwise, a more closed person might be put off by the openness.
+- There's three topics that bring people together closer than others if they are helped or cared about: health, wealth, and their children's well being.
+- Cantrill: working with good engineers, present them with problems, not solutions. Get out of the critical path.
+- A brand is a promise. You state it, and you follow through. - Sarv
+
+# Get Together
+- Two questions when starting a community: (1) Who do I want to get together (2) Why are we coming together? Most people confuse the "why" and answer it with what they're going to do. But the What != the Why.
+
+# Notation as a Tool of Thought, Kenneth Iverson
+- "Mathematical notation provides perhaps the best-known and best-developed example of language used consciously as a tool of thought." - mathematical notation as a tool of thought?
+- A good notation is an abstraction - "By relieving the brain of all unnecessary work, a good notation sets it free to concentrate on more advanced problems, and in effect increases the mental power of the race." - A. N. Whitehead
+- What if we introduced (in pedagogy) programming notation in context, as needed, as a tool of thought, like mathematical notation, rather than in a separate programming course? Programming as an "executable tool of thought"
+- An important trait of notations of thought is: "Ease of expressing constructs arising in problems"
+- Iverson calls "suggestivity": ideas that are similar in nature should give rise to notational forms that are parallel in structure.
+    - Corollary: identities (in the mathematical sense of equivalency) should be concise and easy to remember, i.e. "pithy" in form.
+- "Economy of notation": notation must treat a wide range of topics with a small number of vocabulary and low complexity of grammar -- composition helps with this.
+
+# The Defining Decade, Meg Jay
+- The 20-something years, a "burst of self-creation". 80% of the most significant events in life pass before the age of 35.
+- The most significant events don't always seem so in the middle of it.
+- "'The unlived life is not worth examining.", quoting another American psychologist.
+- Pop culture and social custom has compressed adulthood into one giant wave into and out of an extended twenties, while at the same time reinforcing the notion that the twenties is a "disposable decade with disposable income" -- real maturity is pushed into the thirties and forties with family and careers, and the twenties becomes more about adventure and discovery, less about intentional construction.
+- Identity crises shouldn't be disengaged confusion, but instead moments of risk-taking exploration and building identities and "identity capital" from which you emerge stronger.
+- Identities are less built on top of Ivy League GPAs and a string of titles at a company, and more from a couple of key pieces of great narrative arcs and experiences that anchor an identity outwardly as a unique individual.
+    - Take opportunities that can build this kind of identity capital early on in your career -- @amasad's "when in doubt, make choices that make for more interesting stories" in your 20's, when you can make those choices.
+- 2/3 of lifetime salary growth happens in the first 10 years of a career.
+- The strength of weak ties is that those weaker connections have different life contexts, connections, and social capital that we don't, and hence can be useful in exploratory life choices like job hunts.
+- "The tyranny of the should": legitimate dreams fueled by inspiration and identity > things that we fool ourselves into thinking we should be doing based on the expectations of not just society but friends and media.
+- Don't underestimate the power of knowing where you belong, physically; choosing where you want to be and live in the world. That question weighs heavy on the mind, and having a solid answer can ground you in thinking about what kind of a community you want to be a part of, what kind of job, lifestyle, etc.
+- Searching is not necessarily better than finding, but searching is over-romanticized.
+- Often we fool ourselves into thinking that choosing one path to take at the expense of other opportunities is settling, when really, all choices are required to start something -- a career, a relationship, a switch -- and we shouldn't let the fear of settling get in the way of the start of a progress.
+- In the aftermath of college and absence of an impressive resume, great personal narratives go farthest in the twenties. "Amid the details, a protagonist needs to appear."
+- Society is structured to guide our attention towards the decisions that only have a perturbative, iterative impact on our happiness, because the decisions that make more significant impact are risky for those who advocate for it. This is no reason to scare away from these decisions.
+- Happiness probably has more to do with whom you marry than careers and alma maters.
+- After age 25, later marriage does not correspond with a lower likelihood of divorce -- likely because there's less time for the partners to grow together, and because the pool of eligible partners decreases over time. 25 is also around the average age of first marriage in the US.
+- Marriage/relationship is an opportunity to re-choose and re-create your (extended) family of the rest of your lives.
+- There is risk in sliding thoughtlessly from a relationship to cohabitation, to marriage and then being locked in by investments and by age without having thoughtfully considered and disputed the possibility and consequences of the rest of life at any specific moment in that journey.
+- High school is more and more as important as childhood in identity formation, especially by being home for the most important memories, the stories we tell to ourselves and our social partners for the rest of our lives and accumulate over life. These stories become the outer bounds within which we form our personalities, and these stories need editing and re-narrating from time to time as we grow.
+- There's a lot of persona, career, relationship development to be had in carefully and intentionally crafting your narrative, your story, of who you are and what you want. Desire is a fundamental human trait, and we should be conscious about where it guides us.
+- What defines relationships is not so much what you have in common, as how you deal with the differences.
+- The big five of personality, in how you interact with the world, and how others interact with and experience you: openness, conscientiousness, extroversion, agreeableness, neuroticism
+    - I'm Open, Conscientious, Not extroverted (though this might be mostly Asperger's coming through), Agreeable, and Not neurotic
+- As significant to life as marriage and career is fertility -- for women hitting peak in the late 20's. Plan for it rather than happening on the possibility as it's becoming too late, alongside marriage. After 35, risk start to mount.
+- Trading off time in the free twenties <> Time later in life with your family; midlife.
+- Because there are few concrete deadlines or expectations of us and our lives as adults in the twenties, it's easy to live a decade unplanned, only to realize when we're 30 that we should have started planning and being more conscientious yesterday. Live a planned life, start today. Start with where you want to be in your thirties, forties, sixties -- and plan backwards from there. That's how you have a happy, multigenerational epic, not a rush towards the end and a fight to stave off the passage of age.
+
+# Becoming Steve Jobs
+- At his best, leading the Macintosh team, he was extremely protective of the team from the bureaucracies and control of the rest of the company, while being open to criticism and facts and confrontation from those who could take his management style and temper. This created a creative environment that particularly suited those on the team, and made them their best creative selves. Steve viewed them as artists.
+- In business, as in life, luck favors the prepared; and luck is how great companies are made, as much as all of the other great qualities. Be prepared as an organization and an institution, the same way you design yourself to be prepared for luck.
+- Steve would begin the meeting with "who here has the authority to buy my computer?" and if the decision maker wasn't in the room, he'd leave. In negotiations, he'd throw in a hand grenade and then walk in, holding everyone's attention.
+- Steve's story is one of redemption arcs, the likes of which figure so heroically in Pixar's early films. To learn in exile and return a hero with new wisdom. Pixar was his redemption. It was a pivot from 3D graphics software to filmmaking and the creative craft that bound him to consumer products and magical technology; NeXT was finally profitable from Web Objects, not NextSTEP.
+- "If you weren't good at your job, Steve owed it to the rest of the team to get rid of you. But if you were, he owed you his loyalty."
+- In Steve's restructuring of the 1997 Apple: he began to work incrementally, "he was both patient and impatient at the same time."
+- Saving face is a form of ineffective vanity -- if you really cared about the work, you'd be straight, and say it like it is, even if you have to walk it back later. Otherwise, you care more about yourself than about the work.
+- Important that the people you work with/over feel that they can tell you that you're wrong the same way you can tell them, in pursuit of better work and excellence, and not focused on the people.
+- "A company is one of the most amazing inventions, this abstract thing; A talent, a capability, a culture, and a point of view" - Jobs
+- "If we build great products, we trust people will like it, and buy it. If we're competent operationally, we'll succeed."
+- When you build something, you walk away with two things. the product itself, and what you learned from the process. In many ways the latter is more important, since it's your future. - Ive
+- He saw was was there -- reality -- clearly, but more than that, he saw what wasn't there, what could be there. His mind was never a captive of reality. He imagined what reality lacked and set out to remedy it.
+
+# Company of One, Paul Jarvis
+- Leadership, whether within or outside of companies of one, require knowing the balance between providing guidance and autonomy. Full guidance stifles problem-solving creativity, and full autonomy leads to anarchy and counterproductivity. Provide autonomy to a point of diminishing returns.
+    - I believe this was the central flaw with my stint at Hack Club -- too much autonomy and not enough guidance, mixed with the fact that there were still silent expectations not being communicated too much of the time.
+- Critical to idea of Co1: achieve profitability at a small scale, then grow based on demand pull while staying profitable
+- Money is easier to earn back than trust because it requires a per-item decision rather than a sustained one.
+- Large / scaling businesses have an inherent size disadvantage: they have to be big, so they appeal to everyone. Smaller Co1's should instead be sharper, more opinionated, have more personality, that will inherently alienate some of the market while attracting (on the net more of) the people that like you as a personality / company.
+- "It's hard to make money from maybe's." Polarize your customers with more niche opinions, and you'll force some people to choose a side, getting allies that later turn into recurring customers.
+- The key advantage of a Co1 is that you can continue to Do Things That Don't Scale indefinitely.
+- In sharing, thirds: a third sharing your own content, a third curating others' content, a third personalizing updates.
+- People running their own businesses solo spend around 50% of their work time or less on the craft; the rest on their business side.
+- Being helpful is the most effective lead-generation funnel. If you help people come up with a plan, they'll want to hire you to execute it.
+- Generally a good idea not to be the biggest or smallest client of anyone you contract out.
+- Extra money from a business should go first to salary, then runway buffer (6mo), then savings/investments for the business.
+
+# Exhalation
+- There is no changing the past or the future -- they are one and the same. But you can know more about the past or the future, and you can atone, and forgive, and come to peace.
+- People are made of stories. Not of objective sequences of events remembered photographically, but selected / curated feelings and experiences around which we construct our personal narratives.
+- Autobiographical memory and self-narrative are oral tradition -- fallible, but their job is not to be precise, but to rightly serve our present selves. History of communities used to be such oral traditions, but literacy has pushed us to pursue precision at the cost of the Truth of Feeling.
+
+# The Innovator's Dilemma
+- "Creative Destruction" as the engine of economic development -- innovation at the low end of the market.
+- The best tool with which to scrutinize theories is the search for anomalies and outliers that the theory cannot prove. Wear the theory (of the innovator's dilemma) like a pair of lenses, and study history being written.
+- Observation: once-innovative leaders in existing, high volume markets make decisions at the height of their managerial excellence that, a few years later, give way for newcomers to usurp them.
+- Disruptive technologies are worse than market leaders in the general case, but offer a new value proposition to a small segment of the market that's radically more valuable.
+- Technology eventually advances faster than market demand. Consequence: established players that invest in R&D heavily will leave value on the table.
+- Theory: disruptive products are at first lower margin (cheaper), first valued in emerging/smaller markets, and not important to the most profitable customers in a market.
+    - Case study: laptop disk drive market, served by the then-disruptive 3.5" drives which were not useful to big desktop market, but soon became the norm.
+- Most organizations are designed and optimized for killing ideas that their biggest customers don't want -- this runs counter to best practice in face of disruption.
+    - Occurs to me that Jobs's taste-driven product leadership is more immune to this.
+    - As a consequence "staying close to customers" optimizes for sustaining innovations, not disruptive innovations that are long-term optimal and inevitable.
+- The ideas of disruptive innovation suggests that the best way to guard against the innovator's dilemma at large firms is to self-disrupt, to cannibalize own products rather than be cannibalized by others. A company is merely a structure for producing products, and should not be tied to a single product.
+- The result of riding disruptive innovation waves is a series of overlapping S-curves. It follows that another way to proof oneself against disruption is to do as Amazon do -- identify and build against inflections in present S-curves. They result in sometimes-similar products and trajectories.
+- Disrupting firms succeed at exploiting new (non-incumbent) technologies in new, often still small, markets.
+- Once the disruptors' product and the new market develops sufficiently for incumbents to have interest in it, incumbents have a challenge because the disruptor's business is structured against the correct cost model and the smaller margins.
+- Asymmetric mobility -- once disruptors grow up, they mature and come to acquire the cost structures required to compete in their most lucrative and largest markets. This prevents downward mobility when they need to disrupt again.
+    - Apple's functional devisions rather than product-line divisions are designed against this -- new product and markets are worked on by the same teams as existing. It prevents tug of war against development resources, alongside strict where-the-puck-will-be vision from leadership.
+    - To take advantage of this, disruptors come in at the "southwest corner" of the market, unnoticed, capturing smaller, unimportant customers, but use the long-term product advantages (disruptive innovation) to rapidly move up-market to the "northeast" corner.
+- Effective large firms are well-oiled machines for serving best products for their largest customers. Things that are not that are blind spots.
+- One current industry-wide disruption in enterprise SaaS that mirrors this theory: the wins of enterprise SaaS companies that are built like consumer apps, for smaller businesses, startups. Zoom, Slack, Figma, Google Drive.
+- Disruptive innovations and products occur so infrequently that no firms can have a process / in-house capability to succeed with them on a regular cadence.
+- Adoption curve, fulfillment of market demands in functionality -> reliability -> convenience -> price, in that order from early adopters to laggards.
+
+# Creative Selection, Ken Kocienda
+- Big ideas: inspiration, collaboration, craft, diligence, decisiveness, taste, empathy
+- "Uncompromising vision" of Steve Jobs -- the reiterator of a vision, and to hold the craft to that standard is important.
+- Latta-like balance of taste and temperament. Personal ideal, involvement, decision-making, wanting direct approval. There were people who hated giving demos for his temperament, while respecting his taste.
+    - Here, it seems like a critical part of Apple's later-stage success is that there were mediators in the management chain capable of translating Steve's temperament to effective communication and management / leadership / motivation.
+- Scott Forstall's key ability in the team was to quickly link new technologies to concrete, meaningful user use cases. Not features, but _experience_.
+- Apple is a series of pyramids, not necessarily based on org charts, but based on who could make the product better. This bar was set by hierarchies of inner circles of demo deciders, and the bar was set at the top by Steve. The organization was a waterfall down of taste, minimizing loss of fidelity going down.
+    - Information also flowed like a tree, or a directed acyclical graph. Seems like there was generally a culture of communicating the minimum necessary for building good products, rather than a surplus. Perhaps this was accompanied by a culture and environment that selected for ways of communication that made this easy. Information must flow up the tree, and get filtered for necessity in between -- no skipping, no surplus.
+    - This also keeps meetings and teams as small as possible.
+- The people who have / create ownership over ideas, are also responsible for implementing it and bringing it into life. This puts the burden of proof on the ideator, and creates a culture of ownership.
+- "Design is how it works." -> "refined like responses" as taste
+- Good software design is about teaching software to infer what people _meant_ from what people _did_. Autocorrect keyboard.
+- "Convergence towards the next demo" is how you iterate.
+- Clarity of purpose made A/B tests moot at Apple. Clarity of purpose, driven by vision.
+- Culture like this thrives and lasts when interactions between people are habitual and rich, not cold or shallow. Keep meetings and groups small.
+- Whatever you're doing, decide for yourself what great work means to you, and get busy. Hold yourself to that clarity of purpose.
+- A common observation of Apple is that they wait-out the emerging phase of a technology and come in when uncertainty is lowered. But I think the internet motivations for this phenomenon is actually just that they wait until the product is ready and able to be manufactured at scale, and works magically. This necessarily requires that technology be _just mature enough_, in a way that's internally provable.
+
+# The British Museum and Library
+- Written language and knowledge was scarce for most of humanity. Now, we have surplus thereof at negligible cost.
+    - What is the impact of zero marginal cost in information distribution through the Internet? It's akin to the Gutenberg printing press, but orders of magnitude more significant in scale.
+- History is the story of interacting communities.
+    - The world today is fundamentally a successful Hellenic/Roman-Republic civilization today
+    - Two civilizations won: China / East Asia, and Ancient Greece / Hellenic-Roman-Republic
+- How does the scarcity of language (and modern surplus) relate to this community-history framework?
+- Does the community abstraction at student-community level I work with daily hold up at this scale?
+
+# Convivial tools, Ivan Illich (http://akkartik.name/akkartik-convivial-20200315.pdf)
+- Two schools of tools
+    - Manipulative tools aim for immediate productivity, dependency chain of tools on other tools. Tool-making becomes an industry unto itself, flaws in tools are papered over with other tools. Means towards end becomes an end itself. e.g. Node.js ecosystem post-webpack and React. As the complexity of the tool complex increases, the burden of its loss also increases. Tools are obscuring layers of abstraction.
+    - Convivial tools preserve the degrees of freedom of individuals, and individual agency, and otherwise extend human intent. Flaws in a tool reject the tool, in search of a better model. No compounding maintenance burden. Tools are composable layers of transparent abstractions.
+- "Complexity budget" to fit in a single brain.
+- Tend away from monolithic growth over time / usage.
+- Reward curiosity, encourage people to understand internals.
+- Most mainstream software hides implementation detail behind an interface, which goes against this rationale, and counters composability.
+- Notation itself is a tool -- a tool for thought. Its design should follow these same principles while notation also facilitates construction of other tools. I think Lisp follows this quite well -- transparent, composable simplicity.
+- Great tools have large intersections and small counter-intersections of the skill sets that are required to (1) operate the tool, and (2) hack on the tool.
+- These principles are in objection to people's reluctance to modify tools, and tools' reluctance to be modified. Tools should strive to be modified, and learn from users as places learn from their inhabitants.
+- Transparent and introspectable monoliths > complex and highly intertwined composition of obfuscatory abstractions and interfaces.
+
+# From HC HQ India trip
+- Many more things are government-funded directly or indirectly
+- The whole economy is on a rocketship, people still concerned with local over worldly in daily life
+- Most of suburban and rural India has not globalized yet.
+    - That's why Zuck posters aren't ironic, why hack club is King, and why German engineering is marketing.
+    - Those stereotypes still hold without reality breakers.
+- Chat with Jidin
+    - role models: big american CEOs of mature companies, not startups, not Indian
+    - reason for diversity: most people here have two paths, med and eng. Girls prefer med, but fallback to eng; boys go the other way around.
+    - This lack of liberal arts focus for smart female students means better gender balance at the top
+- Connectivity
+    - wifi is Parasite-level scarce
+    - cell data that is here is high latency and metered, home wifi is also metered
+    - this changes how I use the web
+- Infrastructure
+    - There's still lots of lack of unified infrastructure. Not just the ones that software can paper over.
+    - Mailing stuff is hit or miss and to POs, rural areas are really rural.
+    - Phone numbers, addresses, traffic rules -- all still really ad hoc.
+    - Makes it hard to build unified standardized tools on top of it except by lat longs for example.
+    - I wonder how much opportunity space is still bottlenecked by hidden irregularities in data across the country.
+    - I also wonder how much of this is shared in China and how Chinese tech industry works around this.
+    - Interstate highway -- another infrastructure
+- Education
+    - The education system is still industrial even though economy is crossing over to more globalized third industrial.
+    - Everything around IT ed + entrepreneurship + hackathons is more top-down aligned
+    - Focus on STEM as de facto, with government push and focus and investment on it.
+
+## AllDRF 2020
+- Make a user manual / guide for myself for people I'm managing, on how I work, how to work with me, things to know.
+- Activation energy of paying back connections is surprisingly high. Poll, do not expect connections to push. Then systematize it. People won't just reach out to help most of the time but you can poke and it'll come.
+- Founders should always be recruiting. 50-60% of founder time initially; when you can't do that, delegate. If hiring more than 10 a year, think about developing a specific pipeline of talent.
+
+## Apple in their Q4 2019 Earnings Newsroom:
+"Apple revolutionized personal technology with the introduction of the Macintosh in 1984. Today, Apple leads the world in innovation with iPhone, iPad, Mac, Apple Watch and Apple TV. Apple’s four software platforms -- iOS, macOS, watchOS and tvOS -- provide seamless experiences across all Apple devices and empower people with breakthrough services including the App Store, Apple Music, Apple Pay and iCloud. Apple’s more than 100,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it."
+
+## AVC: What will happen in the 2020s
+- People overestimate what will happen in a year and underestimate what will happen in a decade. - B. Gates
+- Automation and its economic pressure on social change: "The fight for who should have access to this massive consumer surplus [generated by widespread, cheap automation] will define the politics of the 2020s. We will see capitalism come under increasing scrutiny and experiments to reallocate wealth and income more equitably will produce a new generation of world leaders who ride this wave to popularity."
+
+## XOXO Festival 2019
+- Life <> Personal brand: ideas and change should flow right; personal brand should reflect life, and life should only very rarely reflect the desired personal brand. Be more conscious of this.
+- We do the work we do because at some point, someone in our lives shined a light on humanity for us. We're each give a flashlight, too, and it's our duty to use our work to shine a light on humanity for others.
+
+## Alex Mittal (@mittal)
+- "If it doesn't feel like the market is pulling you, it's not" -- the best markets forgive horrific failures of execution. consider if it's a market/product problem or a marketing problem.
+- "You can build a business like a flywheel or  like a hamster wheel. Build a flywheel." (self-reinforcing moats and network/scale effects on the margin)
+- "Hire people who are either obsessed with your mission or obsessed with excellence in their craft, ideally both."
+
+## YC Interview Notes
+- 10 minutes with a few YC partners, think standard MBA type. They don't really care for technicals, only that you're technical.
+- Interviews are YC partners who have read your application for max 5 minutes before the interview. Assume they don't know your company.
+- It's going to feel like the partners are grilling you with questions. They'll interrupt, switch topics, cut you off and follow up; they're really just trying to learn max information about your company in 10 minutes, so keep each answer to 10-15 seconds, concise, and to the point. Don't get discouraged by interruptions.
+- Small room with 3-5 partners, partners will absolutely blast through questions and interrupt you, might feel like they're out to just intimidate you; don't be.
+- Articulate a big future vision. Must be venture backable, but beyond that, tell a compelling story of how the world is moving towards a world where your product becomes indispensible.
+- Memorize your numbers, keep in mind they have your application in front of them. If they're different, explain what changed.
+- For each question, know which cofounder is answering. If there are cofounders listed, all of them should interview. Seems obvious, but, you know.
+- Try to steer question answers to your key points / headlines, but never dodge the question.Always answer it first and concisely.
+- Practice answering each question in 10-15 seconds, and expect to be interrupted. They aren't being rude, they just have limited time to learn about your company.
+- Show progress, traction, learnings since you applied.
+- The most helpful thing you can do besides practicing with cofounder is mock interviews. Number of mock interviews done in prep directly correlates to how prepared you'll feel afterwards.
+
+### Prep
+- The most useful thing by far is YC mock interviews with YC alums. Aim to do at least 20.
+- At mock interviews, have a list of ideas you want to communicate to the partners no matter what about your market, product, user. After each mock, as what the interviewer understood about those things and repeat until you can communicate these key points clearly.
+- Practice taking vague sentences / ideas and making them specific and concrete, e.g. "machine learning platform" -> "web dashboard to build an image classifier"
+- Have a specific, good idea of who answers which questions. In 3 partners, try 1. market, 2. customer, 3. product. You may also want to have each founder answer the question from different angles / fields of expertise.
+- Show that you have more traction and have moved forward since you applied.
+- Nice to have a demo on hand (and ready to work offline!), if possible, just in case.
+- Talk to current and potential users a lot, know them well.
+- Prefer specific facts and learnings over high-level arguments and conclusions.
+
+### Good questions
+- The first question is almost always some variation of "What does your company do?" or "What are you building?" Good candidates can communicate these ideas clearly and concisely, because they've thought a lot about it.
+- Who needs what you're making / how do you know they need it? What are they doing instead now?
+- Why isn't someone already doing this? / Why hasn't someone already fixed this problem? (Why now?)
+- How will customers / users find out about you?
+- What _exactly_ makes you different from existing solutions?
+- What are the obstacles you're facing now, and how are you thinking about overcoming them?
+- What are key insights you have about your domain that outsiders and/or competitors don't know / disagree with?
+- First paying customer? Pilots?
+- Why did you choose this idea?
+- What have you learned so far from working on it?
+- What are the top things users want?
+- Growth / conversion / retention rates?
+
+### Logistics
+- They sometimes ask you to come back for a second 10 minutes, which is usually to get a subject-matter expert and dig deeper, if the first interview didn't have people that fully understood your problem but you seemed to know what you're doing.
+- You're told whether you need to do a second round usually right after the first round
+
+## Sales notes
+- see also: /posts/sales-learnings/
+
+## Alex Danco's Snippets 2.0
+- "Crowds are usually temporary phenomena. What kills the crowd is when the individual members of the crowd begin once again thinking of themselves, their awareness of their own personal boundaries, and their own objectives. They may leave peacefully, they may flee, or they may turn against the crowd itself. The number one thing we need to know in order to understand the crowd is: What differentiation has been cast aside in the creation of this crowd, and in what ways might the return of differentiation destroy the crowd?"
+
+## Sam Altman's OpenAI/YCombinator interview in May 2019
+- Two things that differentiate his thinking from most other people: (1) thinks longer-term, farther into the future, (2) has more appreciation for the power of compounding returns / exponential curves than most people.
+- Purpose is important. When capital is abundant, capital is cheap and the hardest thing becomes concentrating / aggregating talent at your company among a sea of other startups and high-paying careers. And purpose is the best way to aggregate high quality talent.
+- Esp. when running accelerators / fellowships / educational institutions, there is power in outputting one amazing, standout success case. That's the best kind of marketing.
+- Silicon Valley is like Rome in the antiquity or Florence in the Renaissance, in that it happens once in history and the change and impact is diffused to the rest of the world.
+- The best Y Combinator interviews feel like the first YC office hours, where the founders and interviewers / partners are collectively trying to figure out how to take your company and make it something really big.
+
+## Good Founder Interview Question from First Round + DRF
+- High level, one of the key goals should be to understand why they're working on the project.
+- Founders tend to overestimate their window of defensibility / lead. How much of it do you really have?
+- What would you be doing if you weren't doing this?
+- How did you initially / do you go about learning about the problem?
+- Tell me about your sales cycle.
+- Why aren't there more people in this space? (Is a good way to phrase a moat / defensibility and market opp question)
+- In this fundraising round, what runway does this buy you, and what things will you have learned by the end?
+
+## AllDRF 2019 Conversations
+- On hiring great people: truly exceptional people have been exceptional their whole lives in their own ways. Try to detect this when hiring key employees (like the first few and lead positions), as well as cofounder roles.
+- Startups grow and mature in three high-level stages. Testing / experimenting -> Replicating (getting their PMF hypothesis product sales to be reproducible) -> Scaling that pipeline. Know where you are in the pipeline.
+- Sales is about (1) knowing what people want and (2) knowing what you build / make, and trying to help the customer get what they want with what you make, i.e. fitting your facts of the product into their wants.
+- Have the courage to be disliked, to stand out from consensus, if you believe it's right.
+- Capital is a commodity. Your product of investing and venture capital is actually about founder support and access to resources.
+- Understand and respect the founders' vision, what they're going to make with the ingredients they've been given rather than what I'd do with them. Understand what exactly they have in mind  + where they want to take their idea early on in the conversation, rather than projecting my judgement onto the market and product vision.
+- Drive investment conversations / interviews / chats to know things that'll change your persistent, yes/no perspective (answers).
+- First conversation: how're you livin'? Get them comfortable being honest and transparent, and start off with why you're excited as an investor to meet them. Why are you already at least a "51% yes"?
+- Evaluating "product" is really evaluating product decision making power / intelligence of the team. What work are they doing? Look not at the product itself, but at the 1st/2nd derivative of product over time.
+- Good founders -- the best founders -- will always find  a way (to get done the things they need to, and find the support they need). A lot of these other programs are either acknowledging them and letting them do their thing, or finding the rest and training them.
+- Good way to judge team dynamics: talk to the "wrong" person (not CEO, not your department of the company), and see how they react. Ideally, the question is passed back gracefully to the right person.
+- In [campus] events marketing, free giveaways are super effective, because of the demographic.
+- In recruiting, getting clients/customers, investing as a VC, strive to raise the bar at each iteration rather than accepting lower-quality candidates. A players let in A players. The next person you hire or take up work for or fund should be better than the last.
+- DRF: Focus on getting a good understanding of the founders needs and challenges, and how I can leverage my resources and First Round's / LP's to help.
+- Mentorship (DRF, Fellowship): If the founder understands that I'm here not to tell them what to do but simply be another input / data point, it frees us up to be honest and transparent about their flaws.
+- I need to take more advantage of my DRF and other networks to really research and do due diligence! There's so much to be learned about markets and products that exist today just by talking to people with more experience. Really research the companies and do their snapshot for them.
+- Like Zeno's paradox; if you improve by chasing the competition, you'll never reach them or beat them; but if you improve by running ahead of them in your own direction and speed, it'll be much more straightforward.
+
+## High Growth Handbook, Elad Gil
+- "Most tech markets tend to end up with one company with most of the market share. And that company tends to be all the value that gets created in that sector, from a returns standpoint. That company also tends to have all the resources to do everything else that they want to do, including build new products." So once you have PMF, winning the market is the big thing. Number two is getting to the next [version of the] product, which is always hard to execute right, often even harder than getting the first one right.
+- M&A is a startlingly underutilized tool for growth in Silicon Valley enterprise.
+- "The general model for successful tech companies, contrary to myth and legend, is that they become distribution-centric rather than product-centric. They become a distribution channel, so they can get to the world. And then they put many new products through that distribution channel." Often in mature startups, better distribution channels always beats out better products.
+- Growing HR, operations.... should happen as you get closer from 50 people to 150 people -- the 150 people is the Dunbar number, the approximate number of people that you can remember and know closely with no formal structure. Beyond that, not everyone can know everyone, and you need structure and layer behind HR.
+- "A lot of founders, especially technical ones, will convince themselves that the rest of the market behaves like the early adopters, which is to say that the customers will find them. And that's just not true." ... "In the consumer world, it's not true because people have plenty of existing things they can spend their time on. They have to be convinced to try the next new thing." And that trick is to be good at distribution and, ultimately, marketing and sales.
+- In the VC backed space, even if you're the first one and nobody else is doing it, once you're onto something, six months later you'll have 20 other VC backed startups doing the same thing, and unless you make forward progress, if you don't get to the rest of the non-early-adopter 95% of the market, someone else will.
+
+## Oaktree Capital Mgmt. letter on Liquidity
+- Liquidity is a fluid, dynamic quantity, not a binary attribute of "is liquid" or "is illiquid" -- it fluctuates over time, and varies depending on quantity sold/bought, whether you're selling or buying, etc.
+  - Liquidity is a function of which way you want to go, and which way everyone else wants to go.
+- "There's usually plenty of liquidity for those who want to sell things that are rising in price or buy things that are falling. That's great news, since much of the time those are the right actions to take." The consequence of this is that it's easy and wrong to assume it'll be painless to get out of your positions after its price has begun to drop.
+- "In times of crisis all correlations go to one." The prices of everything move in unison during crises because investors are driven by psychology; thus liquidity often also goes to zero.
+- There are often knock-on, secondary effects of illiquidity from market to market and asset to asset.
+- Be wary when investing into products that are higher-return due to a risk premium: those risk premiums arise from risk aversion, and they may not exist when investors are risk-tolerant as a whole.
+- "The Siren song of liquidity can convince investors to try their hand as traders. The result can be increases in (a) emphasis on short-term considerations relative to long-term ones, (b) transaction costs and taxes, and (c) exposure to negative surprises when the liquidity they've been enjoying dries up." This is the peril of Robinhood and other retail services like it.
+  - Liquidity can cause you to lower the bar for investments. If you're thinking about making an investment you know you won't be able to exit for years, you'll probably do thorough due dilligence, make conservative assumptions, and apply reasonable skepticism. But when you have something that appears very liquid in the moment, you may take a position casually. Warren Buffett: 'If you aren't willing to own a stock for ten years, don't even think about owning it for ten minutes."
+  - Implication: invest long-term based on business fundamentals / good investments (durable intrinsic values in the underlying, in stocks, meaning P/E and other metrics) to grow wealth in the long term. Invest short-term based on short-term market dynamics (e.g. VIX) to make income / short-term profit when trends cross. Don't conflate these two.
+- The maximum liquidity of an asset (even a derived asset like leveraged securities) is bounded by the liquidity of the assets backing it, the "underlying". Anything that promises more liquidity than the underlying is selling some other nonobvious risk.
+  - There's some magic behind ETFs's "additional" liquidity over mutual funds (more risk when everyone wants to sell the ETFs and index movements don't correlate, liquidity goes down).
+- "Financial innovations created in good times often fool people into thinking a silver bullet has been invented that offers a better deal than traditional investments, where increased returns comes gratis (without lower liquidity or higher risk)." But it's a consequence of the market's laws that new instruments _redistribute_ and repackage liquidity vs. risk, but does not eliminate risk against free returns.
+- In investing, focus on what your analysis shows that your assets are worth, not what the market says those assets are worth; the former is only useful in trading.
+- Long term investing: we should view it as actually owning the shares of a company, not as a trick to generate profit, but as a way to grow and diversity wealth in the long term, hopefully indefinitely. We should plan never to sell investments.
+- Alternatively (short term), trading e.g. leveraged VIX derivatives is not "investing", but trading. This is an income-generating business, and buy and sell carefully based on market dynamics. But don't confuse it for investing. Here, understanding how liquidity will move in times of stress and prosperity will be instrumental.
+
+## Patrick McKenzie on User Studies
+- Play it less like a conversation and more like an improv session; whatever they say goes. "Yes, and?" Don't correct them; don't explain how the product works; don't feel the need to be the expert.
+- First question to ask in a usability study / UX interview - "Take a look at this page and tell me what you're looking at. What do you think this product does?"
+
+## Reaching out to media outlets
+- @jimmy: "Some interesting angles that I’ve tried in the past: 1) high leverage keynote speaker 2) journalists that are berkeley alumni 3) someone already building a narrative around berkeley startup ecosystem (this is harder to pull off)"
+- @jimmy/@joanne: "Twitter DMs are actually really good — I got a lot of response when Justin Kan came to speak at Berkeley"
+  - Instagram DMs fall in the same camp.
+
+## Divy Shrivastava
+- What was most helpful? "Making food" - really get to know customer, if it's B2B, go see and learn how they work. Understand how they work and where they're coming from. They made food for firefighters, since they're a kind of a family that spends so much time together.
+- One of the most useful skills is to know who to go to for a given specific question -- who should you ask about product roadmap vs. finances vs. law? Mentors/partners good for some things, customers better for other things.
+- In storytelling, the purpose is to add a sense of urgency to act -- for the customer to buy, audience to care, and investors to invest. Not just "why is this important?" but "why is this important _now_?"
+- As a startup, your advantage against incumbents is that your differentiator can just be a series of hacks. Find hacks to get around big problems large firms can't solve at scale -- e.g. a legal loophole around deploying drones, a technical loophole that allows you to do something at small scales (or manually).
+- Talk slowly, and take lots of pauses. It's a hack to (1) make sure the audience hears your every word and understands, and (2) give yourself time to come off as more intelligent.
+
+## Steve Jobs's 2005 Stanford commencement address
+- Aim Higher (this is mine, not Steve's)
+- Stay hungry, stay foolish.
+- The only way you'll be satisfied is if you do what you believe is great work, and you can only do great work if you love you work. If you haven't found it yet, keep looking. Don't settle.
+- You can't connect the dots looking forward. You can only connect them looking back. So trust your gut. Like all matters of the heart, you'll know when you find it.
+
+## UGBA C5 Lecture Notes
+- The best ideas come to you as "slow hunches"
+- Pricing models: "cost plus" (set margin), value of solution / willingness to pay, competitions' pricing, based on frequency of purchase, cost of ownership
+- Customer Discovery -> Goal is to test whether our solution can solve a big problem customers have
+- Customer Validation -> Searching / optimizing for a business model; customer acquisition strategy
+- UX Interviews: "Walk me through how you currently do X" Why? What's missing? How can it be improved? What's frustrating?
+- Some less obvious channels: systems integrators, resellers, OEMs; app platforms, aggregators
+- Marketing is "delivering value to customers for managing customer relationships to the benefit of the company."
+- Get -> Keep - Grow (acquisition, retention, growth): you typically need distinct strategies for each part of the funnel. When you're marketing, what's the total LTV vs. amortized cost of acquisition?
+- Angels - Seed rounds are focused on companies with idea or problem/solution fit, aiming at PMF. Higher VC rounds aim for PMF companies to scale.
+
+## On transforming connections into relationships
+- Three modes of communication -- face to face, email, messaging, phone...
+- At least two meetings outside of the office / work environment before you can upgrade the relationship into more than colleagues.
+- Use at least 2-3 pings a year to keep these secondary relationships going, even just a simple hello to say "Hey, it's been too long since we talked, but I remember you and you're important to me."
+  - This keeps you fresh on their minds, and it doesn't take much more to remain in people's memory for when it matters.
+- "Some people collect art. I say I'm a people collector" - K. Ferrazzi
+- Treat small talk as an opportunity to prove and find things in common with the other person. Don't lecture about stuff I have to say.
+- Ryze -- iOS app for contacts / relationship management / personal CRM? (https://itunes.apple.com/us/app/ryze-personal-crm/id1362362788)
+
+## Pitching notes
+- Calculate LTV vs CAC more carefully, since it's a core component of unit economics. It's a key component of financials so don't just brush over it. Relevant: Churn & Return Rates.
+- Q&A is almost more important, since it's where investors check against their criteria.
+- Know industry average margins & profits.
+- The importance of this cannot be overstated: when pitching and investing, the investors are making a bet first and foremost on the founders, on their passion and ability to execute. That should be reflected in the pitch, and the pitch should convince them that this is a great team that can execute passionately, not just an impressive team with good specs.
+- Focus on customer story (and use the canonical customer story to illustrate the problem statement). Other ways of explaining the product tend to be confusing, especially the "market structural inefficiencies" story or similar approaches. (Ohi, DRF)
+
+## Heuristics for effectiveness of a company (Patrick McKenzie)
+- How long does it take, measured from initial expression of interest through offer of employment signed, for a typical candidate cold inbounding to the company?
+- How long does it take, as a developer newly hired at the company:
+  - To get a fully credentialed machine issued to you
+  - To get a fully functional development environment on that machine which could push code to production immediately
+  - To solo ship one material quanta of work
+- How long does it take, from first idea floated to "It's on the Internet", to create a piece of marketing collateral?
+- How many people have to say yes to do something which is clearly worth doing which costs $5,000 / $15,000 / $250,000 and has never been done before?
+- How long would it take an employee, utterly convinced that the CEO needed to know a material fact urgently, to communicate it to the CEO? How long would it take the CEO to acknowledge receipt. (Would it be by their designate?)
+- An idea is floated for a new business unit / product / whatever the local equivalent is given company/industry/stage. How long until it launches into the hands of customers who perceive it as a generally available offering?
+- A coworker is in obvious distress for uncertain reasons. How long until someone offers to help? How long until someone factually helps effectively?
+- How many keystrokes would be required to do an A/B test of the H1 on the homepage? How many minutes from first keystroke to first person seeing it in production?
+
+## The Tipping Point (Book)
+- Three elements of social epidemics / Tipping Points: 1) people who initially spread the idea, 2) the stickiness factor, 3) the right, conducive environment and context
+- The specific quality that a message needs to be successful is the quality of “stickiness.” Is the message—or the food, or the movie, or the product—memorable? Is it so memorable, in fact, that it can create change, that it can spur someone to action?
+- What separates a great salesman from an average one is the number and quality of answers they have to the objections commonly raised by potential clients.
+- "They are people whom all of us can reach in only a few steps." These are the connectors.
+- Stories are the currency of relationships.
+- "The strength of weak ties" -- most of the biggest benefits of a big social circle comes from the weak ties, the outer ring of our networks, because they tie us into different worlds from our own.
+- "if you wanted to bring about a fundamental change in people’s belief and behavior, a change that would persist and serve as an example to others, you needed to create a community around them, where those new beliefs could be practiced and expressed and nurtured."
+- "when we think only in terms of inherent traits and forget the role of situations, we’re deceiving ourselves about the real causes of human behavior." // Character is more like a bundle of habits and tendencies and interests, loosely bound together and dependent, at certain times, on circumstance and context.
+- People are influenced into action or change by the smallest changes in the environment and particularly in the people around them.
+- The most important job as a connector and to be a connector is to connect not just people, but people from different worlds.
+- "The attitude of the Early Adopters and the attitude of the Early Majority are fundamentally incompatible. Innovations don’t just slide effortlessly from one group to the next. There is a chasm between them. All kinds of high-tech products fail, never making it beyond the Early Adopters, because the companies that make them can’t find a way to transform an idea that makes perfect sense to an Early Adopter into one that makes perfect sense to a member of the Early Majority."
+- Great teams have transactional memory: "It’s not just do you know somebody. It’s do you really know them well enough that you know their skills and abilities and passions. That’s what you like, what you do, what you want to do, what you are truly good at. Not, are you a nice person." This is what makes small companies so efficient despite the size, and what makes companies greater than the threshold (150 members) struggle without strict hierarchies and processes.
+
+## Sapiens (Book)
+- Large numbers of strangers can cooperate successfully by believing in common myths.
+- Companies and organizations in general only exist as collective human imaginations and we should keep that in mind when leading these groups.
+- Telling effective stories is not easy. The difficulty lies not in telling the story, but in convincing everyone else to believe it; when it succeeds, it gives Sapiens [people] immense power, because it enables millions of strangers to cooperate and work towards common goals.
+- "Ever since the Cognitive Revolution, there hasn’t been a single natural way of life for Sapiens. There are only cultural choices, from among a bewildering palette of possibilities."
+- "Unlike the laws of physics, which are free of inconsistencies, every man-made order is packed with internal contradictions. Cultures are constantly trying to reconcile these contradictions, and this process fuels change."
+- "Just as when two clashing musical notes played together force a piece of music forward, so discord in our thoughts, ideas and values compel us to think, reevaluate and criticize. Consistency is the playground of dull minds."
+- To understand some belief or people, seek to understand their cognitive dissonances, where their values clash and conflict. This is much more useful and insightful than understanding the principles themselves, because they are always inconsistent, and the inconsistencies and conflicts are where interesting things happen.
+- "No matter what you call it – game theory, postmodernism or memetics – the dynamics of history are not directed towards enhancing human well-being." (memetics)
+- "The two most important examples for the rise of such imagined communities are the nation and the consumer tribe. The nation is the imagined community of the state. The consumer tribe is the imagined community of the market."
+- "The tectonic plates of history are moving at a frantic pace, but the volcanoes are mostly silent. The new elastic order seems to be able to contain and even initiate radical structural changes without collapsing into violent conflict."
+- Nietzsche: "If you have a why to live, you can bear almost any how."
+
+## Stratechery
+- Breaking up a formerly integrated system — commoditizing and modularizing it — destroys incumbent value while simultaneously allowing a new entrant to integrate a different part of the value chain and thus capture new value.
+- Aggregation doesn’t transform value chains; integration does. i.e. modularizing an existing integrated system or integrating an existing modular system are ways to reduce incumbent power AND capture new value.
+
+## Events + Talks
+- Treat the first thousand revenue milestone with same importance as the first (paying) customer milestone. This is the critical barrier that a lot of startups fail to pass. If this is achieved, you're on a good path to profit market fit.
+- Outside money including VC prolongs the status quo. We need to make that starts quo to profit from default state of failure.
+- To bring people from other disciplines into entrepreneurship, don't start with entr but ask, "what problems do you want to solve?" then work backwards, like I did. This usually gets people interested in entrepreneurship (if it's for them) in the right direction / right motivation / right way. Try to help people see themselves as entrepreneurs.
+- Paul Singh: Try not to outsource customer acquisition and product. Things like manufacturing and shipping, less crucial.
+
+Jon Acuff, on marketing and copywriting:
+- "Brands get things backwards. They think the first thing to ask is: "What are our strengths?" or "What makes us unique?" That's the wrong thing to start with. Instead, you should ask, "What do people need?" Then you create from there."
+
+## SXSW, Various Sessions
+- Conversational UI helps you discover what questions users ask about or to your product(s) and how they talk about your product. It's an extremely useful surveying / feedback tool in disguise.
+
+## Paul Graham's High School Essay: http://www.paulgraham.com/hs.html
+- "I think the solution is to work in the other direction. Instead of working back from a goal, work forward from promising situations. This is what most successful people actually do anyway. In the graduation-speech approach, you decide where you want to be in twenty years, and then ask: what should I do now to get there? I propose instead that you don't commit to anything in the future, but just look at the options available now, and choose those that will give you the most promising range of options afterward."
+- "It's not so important what you work on, so long as you're not wasting your time. Work on things that interest you and increase your options, and worry later about which you'll take."
+- "Well, you don't, and that's what you need to find out. Look for smart people and hard problems. Smart people tend to clump together, and if you can find such a clump, it's probably worthwhile to join it. But it's not straightforward to find these, because there is a lot of faking going on."
+- "If you'd asked me in high school what the difference was between high school kids and adults, I'd have said it was that adults had to earn a living. Wrong. It's that adults take responsibility for themselves. Making a living is only a small part of it. Far more important is to take intellectual responsibility for oneself."
+- "If I had to go through high school again, I'd treat it like a day job. I don't mean that I'd slack in school. Working at something as a day job doesn't mean doing it badly. It means not being defined by it. I mean I wouldn't think of myself as a high school student, just as a musician with a day job as a waiter doesn't think of himself as a waiter. [3] And when I wasn't working at my day job I'd start trying to do real work."
+- "You may be thinking, we have to do more than get good grades. We have to have extracurricular activities. But you know perfectly well how bogus most of these are. Collecting donations for a charity is an admirable thing to do, but it's not hard. It's not getting something done. What I mean by getting something done is learning how to write well, or how to program computers, or what life was really like in preindustrial societies, or how to draw the human face from life. This sort of thing rarely translates into a line item on a college application."
+- "It's dangerous to design your life around getting into college, because the people you have to impress to get into college are not a very discerning audience. At most colleges, it's not the professors who decide whether you get in, but admissions officers, and they are nowhere near as smart. They're the NCOs of the intellectual world. They can't tell how smart you are. The mere existence of prep schools is proof of that."
+- "And what's your real job supposed to be? Unless you're Mozart, your first task is to figure that out. What are the great things to work on? Where are the imaginative people? And most importantly, what are you interested in? The word "aptitude" is misleading, because it implies something innate. The most powerful sort of aptitude is a consuming interest in some question, and such interests are often acquired tastes."
+- "One of the most dangerous illusions you get from school is the idea that doing great things requires a lot of discipline. Most subjects are taught in such a boring way that it's only by discipline that you can flog yourself through them. So I was surprised when, early in college, I read a quote by Wittgenstein saying that he had no self-discipline and had never been able to deny himself anything, not even a cup of coffee."
+- "Now I know a number of people who do great work, and it's the same with all of them. They have little discipline. They're all terrible procrastinators and find it almost impossible to make themselves do anything they're not interested in. One still hasn't sent out his half of the thank-you notes from his wedding, four years ago. Another has 26,000 emails in her inbox."
+- "If you want to do good work, what you need is a great curiosity about a promising question. The critical moment for Einstein was when he looked at Maxwell's equations and said, what the hell is going on here?"
+- "I'm not saying you can get away with zero self-discipline. You probably need about the amount you need to go running. I'm often reluctant to go running, but once I do, I enjoy it. And if I don't run for several days, I feel ill. It's the same with people who do great things. They know they'll feel bad if they don't work, and they have enough discipline to get themselves to their desks to start working. But once they get started, interest takes over, and discipline is no longer necessary."
+- "It may be just as well not to do a project "for school," if that will restrict you or make it seem like work. Involve your friends if you want, but not too many, and only if they're not flakes. Friends offer moral support (few startups are started by one person), but secrecy also has its advantages. There's something pleasing about a secret project. And you can take more risks, because no one will know if you fail."
+- "The important thing is to get out there and do stuff. Instead of waiting to be taught, go out and learn."
+
+## Advertising (from _The Advertising Concept Book_ by Pete Barry)
+- Simplicity in concept. You have _seconds_ for each person with the ad. Deliver a single idea, a simple idea, clearly and memorably
+- Before doing anything else, know what message to deliver (what's the campaign objective?) and to whom, and how to measure results
+- Leave things to the imagination (omission, pictorial / visualization of message)
+- Single value prop, Single method of delivery, Single audience. Many, many difference attempts and approaches, and pick the best.
+
+## Product description / differentiation templates
+- For [target] who [statement of need or problem], [product] is the [product category] that [unique benefit].
+- [Verb / action] [Application / solution] [differentiator / unique value prop]
+  - Find the poems you'll love without spending time or money
+- We do [X] but the difference is that [differentiator / unique value prop]
+- The [UVP / adjective] way for [customers] to [application], so that [benefit]
+- [Proven parallel industry example] for [new domain]
+- We help [customers] do [their normal job / task facing problem] by doing [much easier/better/cheaper task]
+- [Customers] [Problem statement] [solution]
+
+## Speaking
+- Like telling a story to friends at a bar; not like espousing lessons to a class, no matter the topic of the talk.
+- Humans have a tendency to scream into mics because we're not used to it, but you can just talk normally. That way, you can get your idea across better, more dynamically.
+- Focus on communicating your big idea; ultimately, that's what matters. The rest of the talk is just backdrop.
+- Find a place on stage in the beginning and generally stay there. Otherwise, even if purposeful, it's probably distracting (unless you're making a point by moving).
+- Before going to speak, if a dress rehearsal isn't possible, make sure
+  - What equipment? Does it auto progress? How to work the clicker?
+  - Where to stand on stage / with respect to the projector(s)?
+  - How loud to project voice?
+  - What kind of audience, and will they be sitting around, focused, or just milling about with food?
+
+## Spensa
+- In team environments, one-on-one's help build trust and common grounds/goals.
+- Good innovation is something that is both novel AND useful, not either-or
+- Entrepreneurship is very much a learning game. Everyone thinks their imagined solution is right, but nothing is right until it actually solves the problem. The only way to do that is to test the Founder's Null Hypothesis, to get out of the building and make sure your assumptions in the customer's story are proven true. Then iterate while building the product.
+- Steve Blank: "Get out of the building. There are no ideas in the building."
+- When doing customer discovery, treating the customer as the expert on the issue (which is probably true in most problem spaces) will get you farther with people.
+- Don't solve 50% of everyone's problem -- solve 110% of one person's problem.
+- In anything, STICK TO IT. You won't see results for a while, because that's just how new projects are. So don't give up after 4 weeks.
+- Be honest about where you are and what you've already done. Lying is a form of building on reputation debt, and you'll have to repay it with interest someday.
+- Useful ruler for performance reviews: What's one thing I should keep doing, and what's one thing I should stop doing?
+
+## Simon Sinek, Start with Why
+- People are egoists; they don't follow those who lead for the leaders -- they follow for themselves, because they believe what the leaders believe, the _why_ they do it. And they aspire to be the same.
+- Don't just market this way; interact with, network with; and work with people who believe the things you believe, who know the reason why they do it.
+- So if you know the why, the why you live the way you live, and why you work on the things you work on -- they _live it_. And others will follow for it.
+- There's two opposing ways of projecting an idea's financials: top down, from the market down; and bottom up, from the customer up. Both are helpful and both give different and unique insights. Have both.
+
+## SP-AN 2017
+- To become a better networker / person, genuinely care about and be excited to learn about the other people. When you say "I work for the benefit of others, to make their lives worth living", that includes those with whom you want to connect.
+- On writing: as a writer, treat the first sentence and first paragraph like a filmmaker would the first frame and scene of film.
+- Deeplocal: One explanation of innovation is that you do things differently this time (this year) than you did last time (last year). If you're not doing that and not improving every iteration, you have stopped innovating.
+- In both design and the arts and writing, the creator must see the idea (the scene, the use case) much much clearer than the audience.
+
+## Paul Singh, Results Junkies
+- Startups need to bias towards action. We need to teach students earlier to bias towards action based on theory, not choose theory over action.
+- Celebrate the post-pitch startups. They hold untold successes.
+- Change is not made by consensus. Change is one person trying a thousand things to change the direction of the many.
+
+## Quotes (paulgraham.com)
+- We act as though comfort and luxury were the chief requirements of life, when all that we need to make us really happy is something to be enthusiastic about. - Charles Kingsley
+- Dealing with failure is easy: Work hard to improve. Success is also easy to handle: You've solved the wrong problem. Work hard to improve. - Alan Perlis
+- The people can always be brought to the bidding of the leaders. That is easy. All you have to do is tell them they are being attacked, and denounce the pacifists for lack of patriotism, and exposing the country to greater danger. - H. Goering, The Nuremberg Trials
+
+## Google I/O '17
+- The next tools should be built for the next billion, those without connectivity or a 2G network if lucky, those who use phones slower than my smartwatch, those for whom data is money.
+- Measure metrics not for us, the product creators, but for the users, and to improve their experience.
+- From Addy Osmani, Google: Passion, knowledge, and references. Less what everyone else does well and more solving interesting problems.
+
+## Wait, But Why
+- On Steve Jobs and Elon Musk's design approaches to product conceptualization: "He obsessed over making 'insanely great products,' and he never paid attention to what other companies were doing, always coming at things from a clean sheet of paper perspective. When Apple decided to make a phone, they didn’t try to make a better Blackberry—they asked, 'What should a mobile phone be?'"
+
+## Seth Godin
+- By traditional means (by "doing the business" of the industry), you have a microscopic chance of "making it". Instead, focus on the change you seek to make and the audience you seek to serve. Do the business of the impact, not of the industry.
+- Two types of relationships: over and width. We're constantly coerced into 'over' relationships by default in society, from chasing to be the 'over' to looking for and being comfortable being 'under'. But rather than working over or for, we ought to chase 'with' relationships. - "Over/with"
+- "If you want to build an organization that thrives in change (and on change), hire and train people to do the paradoxical: To discover that the unfamiliar is the comfortable familiar they seek. Skiers like going downhill when it's cold, scuba divers like getting wet. That's their comfortable familiar. Perhaps you and your team can view change the same way."
+
+## Indie Hackers (indiehackers.com)
+- "Every problem has a solution" -- and the audacity to try ideas first
+- "Shut it down or double down"
+- Charge 2x the initial guess -- charging more is the quickest way to higher revenue
+- Until profitability, profitability should be one of the highest priority goals in a company.
+
+## Prah from [Mimir](mimirhq.com)
+- Look for early movers, and target them first. Establish credibility in early movers, then look to expand
+- Formalization of the company can be much, much later than you think, but you want to get the equity part of the equation settled early on
+- Y Combinator is very skills-heavy in business and workshop-based
+- Don’t necessarily believe in the mantra that building a feature is a bad thing. Specialization is key, and if your feature’s so efficient that it outclasses others, other companies will partner with you, not fight with you
+- Long-term oriented planning. Keep the long-term goal in mind when you set short-term goals
+- Never, _never_ outsource unless the benefit is clear
+- On outsourcing; do something well enough that you have a basic process, then outsource to improve pieces of the puzzle where you’re the weakest
+- Always measure, and know what to measure to make the best decisions
+- Patents in software are very weak. Don’t pursue them. Trade secrets work better.
+- Always measure outcomes. If it’s not measuring up, throw it out.
+- Don’t try to solve something that’s already solved, unless the price is too high to justify. Use third-party tools if they’re a benefit.
+- Self-motivation is the ideal driver of team progress. Hire people who, more than interested in the product or profit, believe in the vision of the company. They won’t fall behind.
+- Focus intensely on the first sale until you get there. Is the new hire helping you get to the first sale? Is the new investment helping you get to the first sale?
+- Build relationships with investors before you ask for money
+- The biggest risk for investors in young people is the uncertainty in commitment. Honesty and openness to investors about the company’s ups and downs pay off massively.
+- Value of college is in making valuable social connections is an easy content. 
+- Read shit. All of them.
+
+## On Leadership
+- Show them what's possible -- show them what they can be, and they will rise up to the task if they believe.
+
+## How not to be a Feature Factory
+- Measure the right things, and act on them.
+- Likewise: focus on impact, not shipping
+- Roadmap outcomes, not features
+- Like writing: spend one week shipping, three weeks refining
+- You can tell a great deal about an organization by what it celebrates
+
+## [Former Google] X's Astro Teller
+- "Great dreams aren't just visions; they're visions coupled with the strategy to making them real."
+- Unchecked optimism + enthusiastic skepticism = innovation
+- X runs on tight feedback loops, design and critique working together to deliver quick iterations in design
+
+## Josh Milburn's Writing Workshop
+- Every facet of your work is expenditure of your most important resources: time and attention
+- Start each day on a blank slate. I have my experiences, but not my achievements or baggage
+
+## Panos Panay: Microsoft Devices
+- The products we build are nothing more than a reflection of both their creators and their users.
+- The mindset of "hand me a tool, a pen, a keyboard. And I'll create. I'll build."
+- Believe in what the product can _do_ for the world, not why the product will sell
+- Believe, believe, believe. Belief changes people, convinces people.
+- _This_ is why we did this here. _This_ is why we did that here. _This_ is why this exists, why we exist.
+
+## On Pitches (MatchBOX takeaways)
+- Ability / Demo > Idea
+- Team > Problem > Idea
+- Your product is great. Don't be shy. People are excited, and it'll change the world. If you believe it, you'll get it.
+
+Products that 'stick': http://tariq.co/building-products-that-stick
+- Engagement: frequency, time spent, retention
+- Mind share: virality, word of mouth, delight
+- "Help people achieve their goals as quickly and delightfully as possible"
+- Better is not enough; be an order of magnitude better than the competition
+- "We grow at the rate at which we solve problems for customers"
+
+from Seth Godin's Blog
+- There's a difference between chasing the mass and being the best for a smaller crowd, and you lose something either way. The smarter business knows when to chase each.
+- "We are woefully unprepared to deal with orders of magnitude." but orders of magnitude is the norm in today's economy. Aim for 10x, but prepare for /10
+- There's an art to taking all the available innovation and technology and features and splitting them out into products and product lines / tiers. This is a skill.
+- View growth, revenue, market share increase as a side effect of impact to the people you serve
+- What to build and how to build are separate concerns
+- Don't let making smart plans come in the way of making bold, fearless plans. What would you do if you knew you could not fail?
+- Agreement on approach at three levels, in order: goals, reality, measurement. This approach gets you and your partner(s) on the same approach from the same starting points.
+- In leadership positions, transparency goes a long way when exercised consciously and intentionally in a thoughtful way (think Shriner with Koning)
+- Keep innovating. Boredom is how social networks (and, indeed, all product lines) die, from vlogs and trust to phones and social networks. - Amy Schmittauer
+- If you want to build a good company, stop focusing on business, focus on the product, especially in the beginning. Don't worry about business until you have to.
+- What's the value you're delivering? To customers, co-workers, investors, and to all people involved? Optimize ultimately for that.
+- Your own market, for the most part, will always be small. So target the right people. You're most likely not getting everyone, so don't worry about the people whose loyalty is out of reach and a waste of time.
+- People are concerned the most with now, not the future. Don't make future promises, but promise and deliver how they feel now to sell.
+
+## from VERGE Fireside Chat
+- Finding a lead investor is difficult, and it's especially hard in the Midwest right now. (Elevate ventures in Indy is a good help here.)
+- Someone that can paint a unique vision is _especially important_
+- You need to not only have the best idea, but more importantly, be the best ones to execute it and bring it to market than anyone else
+- For investors and partners, you need to de-risk the investments as much as possible; this is the founders' job.
+  - This means tackling the biggest, most possible sources of failure first and proving otherwise -- fail first, fail quickly
+  - This means taking risk out of the investment equation for investors in financials, as well as in demonstrating how against the odds it is for you to fail.
+- MIDWEST
+  - cost to failure is really cheap compared to other areas
+  - entrepreneurs and experts are hungry to help you and be a part of something cool. People are great resources in the Midwest.
+
+## From Thought Cafe
+- When building a nonprofit, studio, or company with a mission-based goal, it is _especially_ paramount to know when to say "no" (to clients, features, opportunities) if they are against your mission, and be confident in doing so often.
+- An idea propelled by a vision is more important than profitability in success. Find a cause, then find values you can deliver to people to support that cause, then find ways to deliver that value so people will feel like they're paying less then they're getting.
+
+## From NerdCon: Nerdfighteria (and other)
+- Focus first on what can be done, then on what should be done.
+- When speaking / having a conversation, understand first, communicate second.
+- Creating a safe space is an active thing. Not a set it and forget it thing. It's important in any community, and especially so in company settings.
+- Focus on and start with shared interests when compromising, and uplift minority voices
+
+## From Trubadour
+- Any content creator (including myself) faces these three tests / obstacles:
+  - Zachary Bos's three R's: readership, reputation, revenue
+- Community is an invaluable asset to any start-up venture, because right there's your first customers
+- There's no replacement for doing the homework and knowing more about your target customers than themselves.
+- Events help get a grip on the environment / scene :)
+- First focus on identifying the problem; then focus on building a solution people want, the one that's an order of magnitude better than the competition. Only then do we incorporate and sell.
+- Always be learning, preferably directly from your customers
+- Your co-founder is not just a partner; you need to trust them, and they need to trust you -- and with more than just the business, with their livelihood and their vision
+
+## From Artisfy (David Miranda)
+- Any investment as a business either scales with the company or doesn't, and we should deal with them differently. Identify these.
+
+## Seth Godin's Freelancer Course
+- Refuse to be generic, but refuse to be unique like someone else. Become unique by being unique.
+- People change in cohorts, and change arises from people in cohorts. Market to a crowd and try to impact change to groups who act and learn together. The togetherness multiplies the impact.
+- Be the best in a small enough niche to be the best at; otherwise, you're generic (Rob Scallon)
+- When you do things for people who want your work, they want you more
+
+## More General Notes (imported 5/7)
+
+* Stripe Atlas: https://stripe.com/atlas/guide
+- Be the center of the buzz for all conversations about that one niche topic -- network like Rebecca Roach v. progressive poetry world
+- For me it is still the arts and the pure sciences that inspire me more directly than the promise of impact, in reminding me of why we matter to each other.
+- More of a lifestyle thing, but for myself, have distinct chunks of time for lian'kenitiphpen v. work-related, fit'kenitiphpen, especially during trips and travels.
+- Plan as if you're 6 years older; execute as if you're 30 years older.
+- Pitch as if you're the expert, because you are
+- How does your product change how people work, how they live?
+- Pitch / networking: start by saying your name correctly, clearly and articulated, and what you do. Concisely done, this makes the first impression.
+- If you're developing a community around a product in the beginning, make the community truly useful for them, so they come voluntarily.
+- "We designed the product alongside them, they loved the product, and felt ownership in it since they had contributed to it," says Tamplin. "As a result, when it came time to launch they were willing to help spread the word far and wide." - Firebase
+- ...driven by the hope of making tomorrow's work better than today's
+- Set revenue + profit goals from the beginning of a 'business'. This sets the bottom line clear and sets operating parameters.
+- When pitching, at EVERY SINGLE STEP OF THE WAY, every concept, every sentence, it's incredibly important that you're on the same page as the audience and that the audience understands the maximum physically possible of your words -- this is why Panos Panay is so effective
+- Product accessibility is just as important as design and marketing. Who is the product for, and is it accessible to them, financially, geographically, conceptually?
+- Content marketing: topics in the form of questions people will ask, so you can be found as a solution
+- Lead like Linus(TechTips) -- passion for causes / ideas + compassion for the people that matter thereto
+- Our customers' successes are our success. This is the best model (only model?) for long-term success.
+- Beware of Out of Category competitors -- those to whom the product is 'a feature', who can pivot easily and make a trivial investment to then _become_ a competitor
+- Beware of competitors who target a different market with the same product or technology -- these are difficult to miss but potentially strong competitors
+- Engage => Decide / Commit => Transaction
+- Automate sales processes / renewals, that's a waste of human time
+- Face to face sells, but doesn't scale => scale human interactions
+- Speaking engagements / hosting events are super effective
+- How can you make progress towards the mission today?
+ - Be the re-iterator of vision (quarterly / periodical whole-company, vision-aligning meetings)
+- Think 10x in spatiotemporal scale. Not just a week out, but 10 yrs out; not just in this country, but worldwide.
+- When marketing, How is this useful to the customer today, and how do we deliver that message?
+- Network at the personal level, network at the company and brand level, same principles, same insights.
+- There's value in being the best at a few crucial make-or-break features, rather than mediocre in all provided.
+- My target peers are always the ones I struggle to reach today.
+- There is immense value to seeing everyone, without exception, as equal. The most and least intelligent people are not very different, and we are diverse, but equal in value. Treat every human as your friend and equal, and each transaction will bring value.
+- First user acquisition is never (and should never be) scalable solutions - https://news.ycombinator.com/item?id=14191161
+- Places to post products / company: https://reads.breue.com/125-places-to-post-your-startup-product-6df5b7ad3932
+- Innovation is the sum of impact over space over time
+
+## The Boiler and The Anvil
+- Be more concise in project descriptions + only talking as little as possible to keep the questions coming
+Investigating & Creating Product-Market fit
+- Who is the ideal customer, and will they pay for it?
+- What are their challenges, and what do they care about?
+- Customers : Types : Value Props
+  - Types enum: Decision Maker, Influencer, Payee / Buyer, End User, Saboteur
+  - For each of these customers, we need to tell different stories
+- Total > Addressable > Target market hierarchy, which are the possible customers, customers who'll change behavior to adpot, and a specific segment or demographic we're targeting today.
+Sales
+- Sales is a funnel, top of the marketing funnel coming in one way and the bottom line coming out the other.
+- It's also a formula or a recipe, investing in N dollars and producing N + M (ideally positive M) revenue. Make this clear for investors.
+- Lead generation is different from, but just as important as, managing the user's accounts thru their lifetimes
+- CodePen model of permission marketing: providing content from the platform / product _as_ the content of value in content marketing, and using that permission to sell + upsell other things.
+- Lower the barrier to becoming a customer as much as possible
+- Automate only until but up to the point where you don't lose human touch
+- In the end, the value prop is a single benefit: saved time, saved money, etc.
+- Sales is a conversation driven and motivated by measurements
+- Free in exchange for significant customers' name / recognition / case study
+- Even provide a value prop for the permission marketing's content marketing
+- Lower barrier to entry sometimes also decreases loyalty (free trials, etc.)
+- Ideally, the acquisition cost of a user is 25% or less
+- When assessing value of the problem, ask for implications of not solving the problem: is it a loss of revenue, does someone die?
+- In marketing, focus on influencers not related to end users / payers are equally important
+
+## Seth Godin's Blog + Freelancer Course
+- There are many creative (and non-creative) ways to stand out from the crowd, not by skill, but by being unique. How are _you_ going to stand out?
+- The "review" is beginning to be written before the product ships to the users' hands. Identify what our first impressions are, and get these first impressions right.
+- Professionally, a blog is a place to engage in word of mouth marketing, finding people who agree with what I write and giving them something to spread / share
+
+## Travis Neilson / DevTips
+- Grasp onto those rare moments of optimistic, unbounded motivation and willpower and don't let go -- push forward and start working then.
+
+## Alex Schultz, YC Startup School, on Growth
+- The single most important metric for growth is retention, measure MAU (over daily or weekly, use 28 days)
+- MAU is the flat-line asymptote of retention on the 29th / 31st day
+- Network effects are often crucial for social products' user return
+- Net Growth = New users - Churn users + Resurrected users
+- Retention is made by the one "Magic Moment" more than anything; drive the user to the magic moment.
+  - On the first few interviews, look really hard for this magic moment in users, and scale it.
+  - You may call this an emotional connection moment.
+- Pick a goal (metric) and align the company's day to day work around it
+- Data -> Understand, Identify opportunity, Execute against it. _This_ is why data is important.
