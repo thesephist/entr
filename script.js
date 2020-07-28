@@ -103,9 +103,10 @@ class App extends Component {
         this.search = evt.target.value;
         this.render();
       }} />
-        <button class="movable paper paper-border-right about-button">
+        <a class="movable paper paper-border-right about-button"
+          href="https://github.com/thesephist/entr" target="_blank">
           about
-        </button>
+        </a>
       </div>
       <div class="results ${this.notes.length ? '' : 'loading'}">
         <ul class="note-list">
