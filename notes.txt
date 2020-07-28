@@ -432,7 +432,6 @@
 - In cofounder relationships, some people are driving, others are being pushed harder than they've ever been pushed before, both are good, in their own ways.
 - Startups are usually messy, but good ones do a few things perfectly. As long as that's set, other things can be just good enough.
 - Brett @ FRC: Successful founders have a knack for altitude-shifting between high level abstracts in the market / frameworks thinking and in the weeds details and attention to those details. High level motivation <-> the mechanics of the chess game.
-- Isabelle Li: DRF, Stanford, TSwift fan, big into solo traveling, might have insights to share re: Fearless.
 - Storytelling: "Every character should want something, even if it's just a glass of water." Great stories are breat because the plot is driven by character motivations, not the other way around.
 - "Remember that, sooner or later, before it ever reaches perfection, you'll have to let it go and move on and start to write the next thing." - Neil  Gaiman. Engineering, startups, life.
 - "There's no win and no fail, there is only make." - Sister Corita Kent.
@@ -1071,14 +1070,14 @@ Jon Acuff, on marketing and copywriting:
 - Team > Problem > Idea
 - Your product is great. Don't be shy. People are excited, and it'll change the world. If you believe it, you'll get it.
 
-Products that 'stick': http://tariq.co/building-products-that-stick
+## Products that 'stick': http://tariq.co/building-products-that-stick
 - Engagement: frequency, time spent, retention
 - Mind share: virality, word of mouth, delight
 - "Help people achieve their goals as quickly and delightfully as possible"
 - Better is not enough; be an order of magnitude better than the competition
 - "We grow at the rate at which we solve problems for customers"
 
-from Seth Godin's Blog
+## from Seth Godin's Blog
 - There's a difference between chasing the mass and being the best for a smaller crowd, and you lose something either way. The smarter business knows when to chase each.
 - "We are woefully unprepared to deal with orders of magnitude." but orders of magnitude is the norm in today's economy. Aim for 10x, but prepare for /10
 - There's an art to taking all the available innovation and technology and features and splitting them out into products and product lines / tiers. This is a skill.
@@ -1135,7 +1134,7 @@ from Seth Godin's Blog
 
 ## More General Notes (imported 5/7)
 
-* Stripe Atlas: https://stripe.com/atlas/guide
+- Stripe Atlas: https://stripe.com/atlas/guide
 - Be the center of the buzz for all conversations about that one niche topic -- network like Rebecca Roach v. progressive poetry world
 - For me it is still the arts and the pure sciences that inspire me more directly than the promise of impact, in reminding me of why we matter to each other.
 - More of a lifestyle thing, but for myself, have distinct chunks of time for lian'kenitiphpen v. work-related, fit'kenitiphpen, especially during trips and travels.
@@ -1179,7 +1178,8 @@ Investigating & Creating Product-Market fit
   - Types enum: Decision Maker, Influencer, Payee / Buyer, End User, Saboteur
   - For each of these customers, we need to tell different stories
 - Total > Addressable > Target market hierarchy, which are the possible customers, customers who'll change behavior to adpot, and a specific segment or demographic we're targeting today.
-Sales
+
+## Sales
 - Sales is a funnel, top of the marketing funnel coming in one way and the bottom line coming out the other.
 - It's also a formula or a recipe, investing in N dollars and producing N + M (ideally positive M) revenue. Make this clear for investors.
 - Lead generation is different from, but just as important as, managing the user's accounts thru their lifetimes

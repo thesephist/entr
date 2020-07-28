@@ -2,18 +2,23 @@ html,
 body {
   background: #e4e3ea;
   font-family: system-ui, Helvetica, Arial, sans-serif;
-  --paper-accent: #e0812e;
+  --paper-accent: #7443e8;
 }
 
 .app {
   height: 100vh;
   width: 70%;
   max-width: 760px;
-  padding: 12px 8px;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
-  margin: 0 auto;
+  margin: .8em auto;
+}
+
+@media only screen and (max-width: 1130px) {
+  .app {
+      width: 98%;
+  }
 }
 
 header,
@@ -21,7 +26,8 @@ header,
   margin-bottom: .8em;
 }
 
-header {
+header,
+footer {
   line-height: 1.5em;
 }
 
@@ -41,6 +47,19 @@ header {
 ul.note-list {
   margin: 0;
   padding-left: 0;
+}
+
+ul.note-list:empty::after {
+  content: 'No results. Try something more general?';
+  font-style: italic;
+  text-align: center;
+  margin: 3em 0;
+  display: block;
+  width: 100%;
+}
+
+.loading ul.note-list::after {
+  content: "Hold on a sec shit's loading...";
 }
 
 li.note-item {
@@ -70,4 +89,13 @@ p.heading {
 header a {
   color: var(--paper-background);
   cursor: pointer;
+}
+
+footer a {
+  color: var(--paper-accent);
+  cursor: pointer;
+}
+
+footer {
+  margin-bottom: 1em;
 }
