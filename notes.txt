@@ -528,6 +528,25 @@
 - Cantrill: working with good engineers, present them with problems, not solutions. Get out of the critical path.
 - A brand is a promise. You state it, and you follow through. - Sarv
 
+- Community :: TestFlight invites :: Speakeasies :: Hackerspaces. Camaraderie and shared vibes - Ash Bhat
+- Amanda @ MBX: the idea of "brewing" a community and its culture. It takes time, input, balance, and it lingers.
+- VCs think horizontally, reasoning across markets or across growth stages; founders think vertically, focusing on micro-problems of stages and verticals and pain points.
+- Rahul Vohra: one powerful way of creating stickiness / retention is to grow average customers into power users who love + get retained in your product. Parallel idea: building community is growing community leaders.
+- MIT's rich culture around email lists makes it trivial to build cells of communities that overlap and are connected by superconnectors. They have centralized infrastructure to support this, but the activity is completely decentralized, and the fractal structure drives innovation. Because email is a universal format, communities can build on top of the platform.
+- Richard Lui: 3 broad kinds of investors in VC
+    1. People investor (Founders Fund, early stage, conviction that good founders will weather downs)
+    2. Momentum investor (later stage, investing by numbers)
+    3. Market investor, following and setting technical thesis and betting on being early to trends
+- Richard Lui: Hong Kong doesn't have a thriving startup ecosystem b/c large firms (esp. finance) pull in all talent into their large corporate gravitational pull, and culturally that's the career trajectory many aim for.
+- Lola Lafia: introduced me to https://punctumbooks.com due to her / her family members' prior work with the publisher. re: Atypical, Culturecraft
+- Hiring/onboarding/management: it's important that everyone knows who to report to, and managers only manage their direct reports. Across-org-chart management is a really easy way to get misdirected / give confusing signals that ultimately leads to disarray on a project.
+- Amy Deng: although E-commerce is ahead in China, B2B / SaaS is quite behind in terms of industry maturity. Much less development in open/documented APIs / developer tools.
+- My "audience" at the top of funnel is a large superset of my "garden" of close friends and personal connections in a community derived from my audience. They should not / need not be the same. Grow a garden of community of my audience and dance with them.
+- Find your people, and dance with your people as if nobody else is looking. That'll create the happiest, most creative you, and that's what the world needs.
+- "Empathy isn’t just listening, it's asking the questions whose answers need to be listened to. Empathy requires inquiry as much as imagination. Empathy requires knowing you know nothing." - Leslie Jamison
+- "The essence of being human is that one does not seek perfection, that one is sometimes willing to commit sins for the sake of loyalty, that one does not push asceticism to the point where it makes friendly intercourse impossible, and that one is prepared in the end to be defeated and broken up by life, which is the inevitable price of fastening one's love upon other human beings."
+- Life is a process of trading off naivete and the courage of ignorance and hope for a deep sense of identity in the world. - www:/posts/purpose
+
 # Get Together
 - Two questions when starting a community: (1) Who do I want to get together (2) Why are we coming together? Most people confuse the "why" and answer it with what they're going to do. But the What != the Why.
 
@@ -1213,3 +1232,108 @@ Investigating & Creating Product-Market fit
   - You may call this an emotional connection moment.
 - Pick a goal (metric) and align the company's day to day work around it
 - Data -> Understand, Identify opportunity, Execute against it. _This_ is why data is important.
+
+# Startup ecosystems at Cal with Amit
+- The overground / underground metaphor is parallel to the communities of practice / care dichotomy. In large valuable communities, both kinds of community coexist. The overground network can act as a superconnector network to the underground communities of care.
+- Eras in Cal student entrepreneurship:
+    - 2000-04: right after dot com boom, most focuses on finance and management, safer options
+    - 04-08: housing bubble
+    - 08-12: tech starts to become attractive again, but niche. Hackers @ Berkeley
+    - 12-15/16: Silicon Valley peaks, DRF, Cal hacks, Thiel Fellowship, YC comes of age
+    - 16-20: Tech matures, FAANG, consulting booms
+
+# Community and Hacker Culture with Shayna
+- "Hacker" at MIT is different that Silicon Valley hacker culture. They don't intersect at MIT. MIT Hackers are more covert, about climbing on rooftops and being in places they probably shouldn't be. MIT Hacker culture is a much more focused, persistent identity.
+    - The "orange tours" and other traditions are passed down purely by oral tradition and non-documented means like passed-down printed pages, again, a sense of underground / covert operation with tradition and legacy.
+    - Even though the hacker identity is more centralized, the operation is not. It's still a decentralized, networked underground community.
+- MIT's tradition lives on so strongly because classes aren't normalized into years, and there's strong community ties that bring back alumni and bridge across years. This makes oral tradition survive for very long.
+    - Students often don't graduate in four years, come back for community, and generally integrate across years in activities and dorms and the world, and traditions survive on these cross-year loops.
+
+# The Courage to Be Disliked
+- Adlerian psychology: we are not determined by our experiences in themselves; we imbue our past experiences with whatever narratives best suit our current goals.
+- "Separation of tasks": All problems are interpersonal relationship problems. Your duty is to worry about how you feel and act towards others, and how others feel and act towards you is their task. To worry about others' tasks is fraught, and a cause of unhappiness. It is tempting to blame your problems, and how you feel towards the other as the doing of the others. But that's not the teleological view -- the teleological view is that you use that blame to rid yourself of the responsibility to your own task. Avoid this trap.
+- Praise -- both the desire to be praised and the desire to give them -- are products of some subconscious desire for vertical relationships with hierarchy. We praise to feel superior, and we want to be praised by people who we feel are superior. Rather than praise or chastise, _encourage_ by being a support and creating opportunities.
+    - Praise is based on judgement. encouragement based on horizontal relationships are gratitude and celebration.
+- The desire to succeed is ultimately and fundamentally the desire to feel that we contribute meaningfully to our communities -- that we are not just good, but that we are good for the world.
+
+# The Soul of a New Machine
+- In the mid-60's, hardware unit costs were declining as systems software (OS + compiler toolchain) development costs were rising rapidly, per SKU. IBM came in with the 360, which ran the same software system on a range of hardware, effectively amortizing the development cost and broadening a shared ecosystem. This also made upgrade paths easier and more profitable within IBM.
+- Management: signaling to internal team vs. external other company and teams can be different, and it's helpful to be strategic about both. Externally, evaluating the place and significance of your project against the company's goals as a whole, and internally, inventing strategies and narratives that help the team perform at their best.
+- Engineering leadership, and indeed leadership in general, is about brewing romance and crafting excitement in the process of inventing, to make the process of building unforgettable, and do it together.
+    - Pinball: "If you win, you get to play again."
+
+# Conversation with MBX and Austin about communities
+- Communities of Care vs. Practice. Practice is more tightly associated bound by common work/interest and productivity/output; Care is more about being in the same spaces together, more serendipitous commonalities.
+- Communities form when people can form/find shared identities.
+- Community building ex) the100.io, a Destiny 2 gaming forum. Destiny 2 community is a wide, broad community, but each group in the100 can only have <100 people in it. This forces a cellular, fractal structure on the group with narrower shared identities. The platform crystallizes resilient structure to community.
+- In most communities, a small subset of the members do a majority of the placemaking of the community. This is true in real life and in online communities.
+
+# Conversation with Kyle about venture, startups, communities, investing
+-  Centralized communities are about gaining and following influence; decentralized (fractal) communities are about aligning with each other.
+- Evan Spiegel: today's consumer social is about letting people express their identities on a spectrum and explore that identity spread, not a single persona. An "anti-accumulation" perspective.
+- Venture funds have recently started investing more on an Index strategy, diversifying massively, but this won't work because index strategies only work when market value < real value on average, and startups tend to have inflated value on the average, with diamonds in the rough.
+- Problem in ecosystem in SE Asia: bottleneck is talent + education. Ecosystem isn't impervious to outside tech, but general apathy keeps Internet economy separate from the western developed economies.
+- Chinese social companies are more decentralized, peer to peer, algorithmic feed, less follow-based and centralized on reputation.
+
+# Writing and publishing chat with Rona
+- There's a spectrum of choices for publishing. One end is complete self-publishing. The other end is targeting a top-5 publisher with a book agent. In between, there are smaller publishers that will take care of varying levels of services for you, from editing to marketing to scheduling book/blog tours.
+    - One thing to consider is that bigger publishers will add lead time to publishing. For a big publisher, from submitting manuscript to publish can take 2 years. Self-publishing, you have control over your lead time.
+    - If you are concerned with earning potential, your cut of revenue will be far larger with large publishers than with smaller publishers that do less for you, even if your royalty share is smaller as a percentage.
+- Payments are usually divided into advance (as a part of the initial signing) and royalty (pay as sales go). For bigger publishers, royalty is around 12%, smaller publishers around 20%.
+- One good way to try to find agents (besides just googling / shopping around) is to find authors you like and admire who write similar work, and see who their agents are.
+
+# Student entrepreneurship ecosystem in Mexico with Sebastian
+- Mexico / TDM: university-administered, paid programs for entrepreneurs with discounts to students, supporting through "discovery", "launch" and "growth" phases of startups. Students are a minority of participants, so little community feel.
+- Incubators around the world can easily replicate the same curriculum, mentorship, and network as in the metropolitan hubs. But even with uniform design, the one thing that's hard to replicate is community. We've figured out how to distribute resources, social credit, and mentorship, but not how to distribute community.
+
+# Print and production chat with Raven
+- Hiring a designer: look for experience in newspaper or print production, typographic detailing, different kinds of binding.
+- Volume: 100-500 is "mass production", requiring mechanization / bulk orders in small print shops.
+    - Account for 2-5% defect rates in order volume, and in ordering paper for the shop.
+- Cost & time
+    - Printing could be done in a different shop than binding.
+    - Paper stock costs: quality paper from Mohawk, French Paper, Neenah, Hammermill, Fireworx, Limited Paper.
+    - Different paper for cover (card stock or coverweight) vs. inside (text weight).
+    - Paper can have more high-end finishes, handled by print shop. Ask what they have available.
+- Breakdown
+    - Bulk of the lead time in production is getting proof right, file formats (usually PDF for books).
+        - Late winter / fall are less busy.
+    - Proofs are expensive, $10-20 per for perfect bound. You'll probably need many proofs.
+    - BW/CMYK + spot colors. BW is cheap, Spot adds expense, BW/CMYK about 10x difference in cost. Riso(graphy) is in the middle.
+    - Using the middle of the book for better paper and printing, colored images, saves money.
+- Binding
+    - More than 30 pages -> no saddle-stitch binding, probably perfect binding or spring (wirebound), which is cheaper..
+    - Flush spine, glue at the end is called "perfect bound", quite common.
+    - Hardcover has a perfect-bound equivalent with cloth and reinforcements for longevity.
+- Really fancy choices
+    - Hardcover: longer turnaround times for everything to cure and seal, listen to print shop.
+    - Book cloth cover / embossed covers
+    - Postcards, bookmarks, inserts with fancy paper
+    - /Really/ good paper -> think expensive notebook paper
+    - Cloth binding makes it more durable, like notebooks.
+- Important to communicate with the print shop. They'll be happy to guide first-timers.
+- If looking for print designer, let Raven know with more concrete design/freelance requirements and timeframes.
+- Probably useful to talk to Kris Samuel as we get closer.
+- Raven's list of print shops in the Midwest: https://linus.zone/printing
+
+# Get Together (book)
+- Two questions when starting a community: (1) Who do I want to get together (2) Why are we coming together? Most people confuse the "why" and answer it with what they're going to do. But the What != the Why.
+- Vibrant communities give people chances to act on their passions with one another. Communities are strong when driven by a shared sense of _purpose_.
+- "Build communities with people, not for them." Progressive, layered acts of collaboration.
+- Communities are a mix of "bridge" (bring diverse people together for a common task, look outward), or "bond" (look inward to connect similar people together, reinforce identities). Which axes of life do you bond vs. bridge? Every community is a combination of both in different areas.
+- "People want to realize a shared purpose; not watch you realize it for them."
+- People show up initially for the activity and purpose, but they come back for the _people_, for the relationships they make.
+    - This means community members need to speak directly to one another. No common forums or email lists.
+- In the beginning, demonstrate firsthand what it looks like to participate in conversations the way you want. Be the role model.
+- New folks joining need to join because they're genuinely excited about joining. The agency is important, and ignoring it will kill growth.
+- "Create a pull, not a push." Send a clear outward signal about the community.
+- Craft an origin story that everyone in the community can repeat and own; one that isn't just about you.
+    - Story should drive motivation / urgency for: Self, Us, and Now.
+- The most effective way to grow any community is for everyone to be recruiting, not just leaders.
+- To grow by word of mouth, make the community's content sharable, and make it easy to share conversations and artifacts of activities from within the community.
+- "People can't be what they can't see." - Establish an aspiration pipeline through community ranks.
+- Encourage members of the community to make and share their own "badges" of belonging to the community. Posters, apparel, logos, branding.
+- Retention is the ultimate metric.
+    - Things like DM counts and out-of-platform interactions are leading indicators.
+- Community can only scale when the organizer shifts from viewing their job as simply managing the community, to growing community leaders. Without this fractal structure, the community will collapse under its own weight.
+- Community: Grow leaders. Leaders are the anchor people for whom the community is a core part of their identity.
