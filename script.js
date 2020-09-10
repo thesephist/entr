@@ -73,6 +73,9 @@ function Note({ heading, lines }) {
 class App extends Component {
   init() {
     this.search = '';
+    if (window.location.hash) {
+      this.search = decodeURIComponent(window.location.hash.substr(1));
+    }
     this.notes = [];
 
     this.fetch();
@@ -98,9 +101,11 @@ class App extends Component {
         <input type="text"
           class="paper paper-border-left search-input"
           placeholder="Search Linus's notes..."
+          value=${this.search}
           autofocus
             oninput=${evt => {
         this.search = evt.target.value;
+        window.history.replaceState(null, null, '#' + encodeURIComponent(this.search));
         this.render();
       }} />
         <a class="movable paper paper-border-right about-button"
