@@ -547,6 +547,118 @@
 - "The essence of being human is that one does not seek perfection, that one is sometimes willing to commit sins for the sake of loyalty, that one does not push asceticism to the point where it makes friendly intercourse impossible, and that one is prepared in the end to be defeated and broken up by life, which is the inevitable price of fastening one's love upon other human beings."
 - Life is a process of trading off naivete and the courage of ignorance and hope for a deep sense of identity in the world. - www:/posts/purpose
 
+- Theo Bleier: Cold emails get responses when the person emailing seems interesting to the responder. Point blank.
+- YC: ~1/3 are international clones of American startups, which work well because there's a playbook. SE Asia, India, LatAm tend to work well, Europe tends to be too highly regulated. ~1/3 are people who are serious, and usually successful, and you can tell because they live and breathe not startups, but their domain -- what they're working on.
+- Venture is an antipattern: a bad vehicle for most early 20-somethings trying to solve a problem with software. Most business are better off monetizing and raising post-traction, past-growth.
+- The only consistent indicator of success in startups, and perhaps in other work, is knowing what matters to you, and having the tenacity not to give up.
+- Hacker Culture died in the late 10's because there's too many flashing lights, financially, reputationally, socially, that people can't just focus on building, and on hacking together. There are lots of forces pulling on everyone talented.
+    - "A mafia can't come together at work."
+- Community: humans crave stuff to care about, with each other.
+- David Murzyn: Indianapolis is being born as a tech hub -- lot of IT and health sciences growth, marketing/business focus. Unclear if driven by large companies, but Indianapolis is geographically the center of the Midwest's largest cities, from Chicago to Columbus to Milwaukee.
+- Alex Danco: in economies driven by scarcity, material capital and power control. But in economies where abundance drives primary dynamics (open source software, the wealthy, the Twitter digerati), power comes from social capital and signaling, what Danco references as "gift economies."
+- Alex Danco: cf. The Carnot Cycle - often rather than simply adding and removing energy from a system, a more stable and efficient way to cycle a system over time is to add energy via chaos, and later rein in chaos by removing energy.
+    - It seems like this is what technological / economic bubbles do in the business cycle, and in cyclical startup ecosystems.
+- I (Linus) only work well in work environments where there is a very clear thread from the work I'm doing, coding I'm writing, project I'm planning, etc. to something I truly believe in and care about making/solving, where I can tangibly imagine the benefits and answer all the why questions honestly by myself. If I don't see this at work, ask and raise points until I'm at this point, or work will not get done and I'll regret it.
+- Jacob Cole: creative play is a productive way to explore an idea space
+- Launching on Product Hunt (PHBH): Wednesdays are typically best, start of day in PT (midnight) are typically best.
+- Erik Torenberg on community building as creating cultural artifacts of a new shared reality: "If you have a creative vision of what the world is, or should be, and you have the will to create cultural artifacts that embody that vision of reality, and you just have the discipline and skill really to push it through, then you are essentially the founder of a new reality."
+- Kunal Thakur: Big startup hubs in Africa: Lagos, Nairobi (Kenya), South Africa. Nairobi is usually one of the main entrypoints for foreign early capital funding, a lot of government focus on helping those early companies and innovation thrive so they can leapfrog economically.
+- New opinions and arguments are inherently for or against the existing canon of an interpretive community, or at the very least, unavoidably positioned in relation to the context (the existing canons). Rhetoric weaves a web over time of these interrelated ideas, and truly independent thought is near impossible against this background.
+- Sustainability is not the absence of or resilience to change, but the ability to robustly change and adapt safely over the lifetime of some work. - Titus Winters
+- Kirby: Good leaders can inspire any reasonable person to be a valuable member of a team; if someone isn't contributing, the fault is shared, at best.
+- Focus > FOMO when it comes to career development -- trying to boil the ocean of opportunity usually just gives the illusion of progress.
+- Lorenzo Swank: financial bureaucracy in Japan and Korea pose significant nontrivial barriers to entry for foreign entities entering the market (a little less for citizens starting ventures). Japan makes this worth it because of the economy's scale, but Korea is a much harder market to convince foreign companies to enter because of the additional bureaucratic and regulatory burden.
+- Anil Varanasi (CEO @ Meter): "non-deterministic optimism" - The future will be good, but only if we work to make it. Seems to capture my personal sentiment well too.
+- Divy S: Bookface has staying power with YC alums as their companies grow because they have a huge pay-it-forward culture baked into the community. They have a Slack, but Bookface is defaulted and forced on everyone and it is the platform of choice.
+- Bryan Cantrill: We should scale an (engineering) organization by finding the fewest number of the _best_ people, the top performers you've worked with. Because the top people induce minimal drag to the organization while getting 10x done.
+- Bryan Cantrill: What motivates top engineers? Mission, then the people and the technical problem. We want to solve hard, commercially relevant problems with people that inspire us achieving a mission that we believe in. This attracts the right people.
+- Good engineering interview(ee) question: "How do you navigate product development delays / deadlines?" "Tell me about a time when a project went overtime / past deadline."
+    - Also: open-source involvement? key engineering problems? team composition/middle management?
+- Bryan Cantrill: "Organizations don't innovate. Organizations attract and foster innovative people, and innovative people leave your office every night. And if the organization stops being good, that innovation will not return tomorrow morning."
+- Play the same game whether you're up 20 or down 20 against the opponent. That's what makes a relentless, hard-to-beat team.
+- Startup metaphors:
+    - "Building the plane as you're crash-landing."
+    - "Running off a cliff, and building the cliff as I run."
+- Once a company grows beyond the Dunbar number, productivity per employee really dives. What if all companies stayed under 50 people?
+- Bryan Cantrill: What makes companies worth working for: engineers that are empowered to do the Right Thing, in technical decisions or otherwise.
+
+# ODW1: Byrne Hobart on Newsletter Businesses
+- Understand whether the newsletter is the product, or whether it's selling another product (like yourself as the product!)
+- More than other styles, a daily newsletter becomes a habit. A thing becomes "your beat," and when something happens people will expect and look forward to your thoughts on it.
+- "Value per minute of reading" as a metric
+- Valuable metric: number of paid opens within a day of sending. Answers: "how often do people find the writing valuable?"
+    - For really high value newsletters, the biggest cost of subscribing is a time cost (of reading), not the dollar cost
+- Strategy for writing / newsletter: pick a theory or framework that you want to dive deep on, and every piece, try to validate it in the real world.
+
+# ODW1: Nadia Eghbal on Substack + Newsletters
+- At first, it's intimidating to send emails to people, but at some point a switch flips and it becomes empowering to have a stage, holding a microphone in front of an audience willing to listen. You have the power and earned the permission to speak.
+- Quality of the writing trumps all, even quantity. The bottom line is that people subscribe to see how you think.
+- Leave your best content for the "free list" even if running a paid newsletter. People don't necessarily pay for the writing, they pay for the closer connection / more raw / unfiltered writing and community.
+- Free -> Paid conversion ratio for a healthy newsletter is usually 5-10%, 10% on the higher end bracket of top writers. Healthy unsubscribe rate is <1%.
+- Tips for growth: maximize serendipity (of discovery, cross-promotion), borrow people's audiences. Newsletters grow in spikes, so be patient.
+- Creative work is a hits-driven business, like side projects. This is why consistency and quality are important, and why it's important to optimize for serendipity.
+
+# ODW1: Tyler Cowen on writing daily for decades on Marginal Revolution
+- Three high level advice:
+    1. Keep writing -- "don't let the noise bother you." Go steady, be consistent.
+    2. Get a mentor -- someone who raises your level of aspiration
+    3. Find & hang out with a small peer group ("army") every day or as often as possible.
+- Dream big: don't settle at 100 readers a day -- 100,000 readers a day; a million readers a day. The ceiling is high. Don't limit yourself.
+- The job of the writer is to interact with and discover the world on behalf of the readers. Take that responsibility seriously -- go out and interact with the world.
+- On longevity of traditional higher ed: the university sells a bundle product that's more than career progress or education. It includes a dating life, a social life, independence from family, many first, frequently a move to a different place. Nobody has replicated that package yet. But I wouldn't go long on universities.
+
+# ODW1: Nathan Baschez on the business of newsletters
+- In the beginning, focus on "writing something people love." That determines 90% of readership, growth, retention, discovery, etc. The rest of the 10% comes from "fiddling" with the mechanics. But only worry about those details after your first 1,000 paid subscribers.
+- "Bundling" of newsletters is cynically reinventing publications, but alternatively, it's the continuation of two trends:
+    - The public radio web: https://thesephist.com/posts/radio/
+    - Privatization / closing down of the web
+- Identify engines and drags -- what are the engines and drags on adoption of a product/newsletter? Stronger engines usually override weaker drags.
+- Feedback framework: Awesome, Boring, Confusing, Didn't work/believe
+- Go alone to move fast, go together to go far. (in the context of early stage ventures)
+
+# Conversation with Mikael
+- If you get two things right, the rest will follow
+    1. Good ideas are underrated; the lean startup model places too much emphasis on execution and iteration, but that's akin to brute force. Iteration focuses on short term gains, but good ideas have merit.
+    2. Having good people on the team make the difference.
+- I see my job as the CEO as making sure that everyone on the team is working on what they're best at / like working on, and offloading the tasks they don't want to do by building systems to do it instead, or finding someone else who's great at it.
+- "Priorities" doesn't make sense -- you have one priority, singular. Multiple priorities is a sign of distraction, not prioritization.
+- Build a habit of starting every new idea with a "no" by default, and convince yourself to a yes.
+
+# Accel Scholars chats with Amit
+- When starting a venture, dream big. If the founders don't shoot for the moon, nobody else will.
+- The tech industry allows engineers / ICs to rise through an organization meritocratically, and that should not be taken for granted.
+- Working at large companies are valuable in the way that a sabbatical is valuable; look at working at a very large tech company as a continuation of your education.
+- Hiring and fundraising capability are forcing functions to test a company's potential and mission, and whether they're actually creating value. If these litmus tests fail, perhaps re-evaluate.
+- At any moment in the Valley, there are 3-4 companies that are on a near-future breakout trajectory, deep in growth stage. Work at companies that are at this stage -- these companies, at these ages, breed mafias.
+- Understanding how an organization works is as important as doing great work.
+- Highest earnings in the Valley come from vesting stocks in high value, growth stage firms at key times; not owning high % of small, very early stage firms.
+- A good career comprises a marriage of purpose, passion, and skill.
+
+# Conversation about communities with Katie
+- Communities of practice have an end date. Communities of care don't -- they stick with you.
+- When a community chooses a "canonical platform," they run the risk of conflating electing into the community shared identity with the simple binary act of joining the platform. Before, you'd have to adopt the rituals and values and activities of the community to "join" where now, it feels like simply clicking a button or being somewhere includes you in membership. This dilutes the community rapidly.
+- An endonym is powerful because it gives the community's shared identity a distinct, unique name, and if it's unique enough and tied closely enough to the identity, it develops its own gravitational field -- the values and activities and memories and will of the community, the "why" of the community, are attracted to the name.
+
+# Born a Crime, Trevor Noah
+- Language is powerful. Language, more than color, divides; oppresses, unites. Language is so fundamentally tied to tribal identity that speaking the same language -- the same prosody, the same vocabulary -- can unite across colors, across races, across backgrounds. And the absence of such similarity can brew hate, even across the same tribe.
+- School (k12 especially) is so formative to early social development, identity formation, and to discovering the world order for everyone that segregation and social dynamics and hierarchies in school embed themselves out in the wider society. Schools are where the world's social hierarchies are born.
+- Science, history, civics, [literature] -- these are the knowledge that makes us long for freedom and study our place and our future. An education without these topics is an empty education.
+- "Being chosen is the greatest gift you can give to another human being." - TN
+- "Relationships are built in the silences." - TN
+- "If I don't punish you, the world will punish you even worse."
+
+# Germany's startup ecosystem with Jan
+- CDTM, his startup accelerator program, is partnered with colleges in the Munich metropolitan area. It offers a combined tech entrepreneurship + product management side-degree akin to Cal or Purdue's certificate program. CDTM is funded 50/50 by the government and research institutes in the area.
+- Munchen : Berlin :: Boston : SFBA - Berline is home to more capital pushing fintech, consumer focused market-innovation startups, Munchen's startups tend to be focused on commercializing technical innovation/deep tech.
+    - Frankfurt is expanding, more of a fintech hub but smaller than Berlin/Munchen.
+- Most tech/startup folks in German startup centers still have a "SV or bust" mindset -- it's starting to change, but only the beginnings. SF still holds much more authority than similar tech centers in EU like Berlin/London.
+- Munich's dual universities focus (1) on more pure science, and (1) on tech/engineering. They form nice duals and it sounds like they're quite linked in the ecosystem.
+- Tech/consulting salary (on face) is quite low, $70-80k USD median.
+- Most students still find startups a risky proposition, prefer to go work at larger firms. It seems like South Korea's mindset -- there are a few that are sold on startups and innovating the market for venture, but most are in the traditional mindset and founders are breaking new cultural ground here.
+- Even SV-style startups from accelerators in DE are not quite a full realization of the Valley "lean startup" methodology. Still focused on business case, etc. but that might be a symptom of Munchen being more deep tech driven.
+- "Unbundling of SAP" a popular trend, B2B services for small and midsize companies that are more accessible than enterprise counterparts from giants.
+- In the last 5 years of 2010's, big push from universities to produce more commercialized innovation. Funding comes from a mix of in-DE VC's (b/c language barrier companies initially target just DE/CH/AT) and university grants. e.g. Unternehmertum.de
+
 # Get Together
 - Two questions when starting a community: (1) Who do I want to get together (2) Why are we coming together? Most people confuse the "why" and answer it with what they're going to do. But the What != the Why.
 
