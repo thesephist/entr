@@ -582,6 +582,160 @@
 - Once a company grows beyond the Dunbar number, productivity per employee really dives. What if all companies stayed under 50 people?
 - Bryan Cantrill: What makes companies worth working for: engineers that are empowered to do the Right Thing, in technical decisions or otherwise.
 
+- John Lilly, on finding a cofounder early, in college: "Figure out the people around you that you want to work with for the rest of your life. Figure out the people who are smart and awesome, who share your values, who get things done -- and maybe most important, who you like to be with and who you want to help win. And treat them right, always."
+- The modern blog post, from Marginal Revolution or PG or thesephist, are the town marketplace conversations from Plato's Apology -- the modern Socratic Method, taking place in the threads between blogs and the Twittersphere. If Socrates and Plato were alive today, they would be the SSC and MR and PG.
+- Bryan Cantrill: "Code comments within a source base is the art within the timeless machine through which we speak to future generations."
+- On personal monopolies: "What do you think about in the shower?" That's probably a good place from which to find a topic/field where you've spent more time studying/thinking about it than most of humanity.
+- Power law of content: on the Internet of 2020 where content saturates, most content consumed comprises the top small N% of content published. For creators, this means you must be in the top % of content published for a particular field to be widely read.
+- Reed Hastings: "Culture is what gets you prompted" in a company -- what do you incentivize, what do you discourage?
+- Udit Jain: when choosing workplaces, optimize for (in order of importance)  (1) working with people/company who recognize your talent, trust in you, and are looking to invest in you as a person and (2) where you can work on something significant. Always bias towards doing things because you want to do them, but especially in abundance of opportunities.
+- A startup is a long-timescale opportunity cost / problems-space arbitrage.
+- @naval: "What's the most important thing a 20 year old should do today to be happy?" "Make it a priority."
+- @naval: "If there was any single meaning, then we'd all be prisoners to that meaning."
+- Andrew Chen: funnels growth teams should be targeting, by stage
+    1. Seed: None - worry about P/M fit
+    2. A: Sign up / invite / sharing funnels
+    3. B: Activation funnel
+    4. C+: Monetization funnel
+    5. Big co: Reactivation and cross-sell flow to new products
+- Kmele Foster, on media companies and brands vs. individual writer brands -- they serve different niches and are able to do different work, in the way that an indie maker / entrepreneur produces different products and serves different markets than a startup scale-up. Open question whether the Substack model can ever support deep, cross-functional collaborative reporting that e.g. Propublica does. There's also room for other business models -- perhaps a record label-like model?
+- Jess Martin: building off of www/tools -- companies are combination of "work streams" which are just bundles of collaborating workflows. Not departments, not products -- workstreams.
+- Jess Martin: On community, we need both a team and a league in the hierarchy, both the intimate local group and the larger purpose that is the field in which we play.
+- Sherry Turkle, _Evocative Objects_: "We think with the objects we love."
+- CS Lewis: "All men’s lives at certain periods, and in many men’s lives at all periods between infancy and extreme old age, one of the most dominant elements is the desire to be inside the local Ring and the terror of being left outside."
+- On writing: the most interesting thing a writer can do is create a character. Then a narrative -- a story -- then a surprise, then an insight. A character is the most compelling thing a story can have. Create compelling characters. Tell memorable stories. Deliver surprising insights.
+- Jess Martin: Building tools around workflows, start with high level goals. Top-down workflow design.
+    - Goals -> Hypotheses on how to accomplish -> Workflows needed -> Capabilities those workflows require -> Tools that integrate into the workflow and provide those capabilities.
+- Pierre Lechelle: retention is a good litmus test for PMF in early stage SaaS. Ignoring this is a common mistake, right alongside launching too early and growing too early.
+- "You learn by doing something and asking for feedback."
+- The point of a mentor isn't really to help think through day to day work, but to provide bigger-picture guidance and career coaching, helping set direction.
+- During an MBA, the first year is spent drowning in new information, a "divergent" period, and the second year there's lots of space and time and resources to pursue something, a "convergent" period. MIght this be a good model for progressive learning in general?
+- Sam Altman, quoting Drew Houston on careers in venture and tech: "You only have to be right once." That's true. The risk is not getting on the path where you get to be right that one critical time.
+- Great founders in a great market is almost always a great bet, regardless of product. The market will pull the company out of the founders. Much harder if either are missing.
+- On finding technical cofounders: it's hard as a non-technical founder to assess engineering chops -- outsource it. Have trusted parties have a conversation with the candidate.
+- It's a deep understanding of the problem, not technical expertise, that ultimately leads the founders to a win. The problem space may require a technical understanding, but technical expertise is in service of understanding the problem, not always in itself useful.
+- Anil Varanasi: Sometimes, you don't get into something because you're interested; you get interested in a field as you begin to work in it and make things for it.
+- Good: marginal cost going down for each new customer. Great: CAC going down for each new customer.
+- Kendall Titus: when building a community, the vision for success should be that in 20 years, you'll still be a community doing things together.
+- On software systems and values, Bryan Cantrill: Everything has values, in a way. We do the things we do because of the things we think are important. We make different decisions when we have different values.
+- On writing: sometimes the words get in the way of meaning, especially when the piece gets long and the story gets elaborate. Create decadent bites of words, shorter, punchier pieces make for a cleaner stroke.
+- Rich Hickey, on creativity / on the "background mind" that drives great ideas: it's the solver of most non-trivial problems. Unfortunately, you can only feed it, not direct it.
+- Paul Chiusano: If you think there is a problem worth solving in the world, it's incumbent on you to try to find the smartest people in the world and tackle the problem together. Too often, the hardest problems in the world do not have the smartest people working to solve them.
+- "Calls to action" should be used to close the end goal for your customer. When you're trying to engage them first farther from the goal, use "Calls to value" like show me more, get my quote, read the post, as opposed to CTAs, checkout, sign up, buy now.
+
+Ideopunk @ LessWrong - posts/7hFeMWC6Y5eaSixbD/100-tips-for-a-better-life
+- "You have a plan. A time-traveller from 2030 appears and tells you your plan failed. Which part of your plan do you think is the one that fails? Fix that part."
+- "How you spend every day is how you spend your life."
+- "In relationships look for somebody you can enjoy just hanging out near. Long-term relationships are mostly spent just chilling."
+- "When dating, de-emphasizing your quirks will lead to 90% of people thinking you’re kind of alright. Emphasizing your quirks will lead to 10% of people thinking you’re fascinating and fun. Those are the people interested in dating you. Aim for them."
+- "Compliment people more. Many people have trouble thinking of themselves as smart, or pretty, or kind, unless told by someone else. You can help them out."
+
+# The Beginning of Infinity, David Deutsch
+- "If an explanation could easily explain anything in a given field, it actually explains nothing."
+- The conceptual revolution of the Enlightenment, which continues in tradition to today, is _seeking better explanations._
+- "Evidence is ubiquitous. Ony any clear night, your roof will be struck by evidence falling from the sky which, if you only knew what to look for and how, would win you a Nobel prize."
+- A human is an explanation factory -- a self-perpetuating, reproducing heuristic for finding good explanations.
+- As long as humans are alive, we will want to live longer. If we assume that technology will continue to improve, there are only two possible fates of humans: (1) we will go extinct, or (2) we will invent immortality. This applies to any technology of the indefinite future. Either it will exist, if physics permits it, or we will die out. We should measure our technological and societal progress in the global scheme against this global ruler of progress.
+- Knowledge is a /significant phenomenon/ in nature. Its behavior cannot be explained trivially by spontaneous combinations of other laws of nature, and its existence is an extremely strong and discriminating signal. Knowledge leads to phenomena unattainable by other processes, like prediction of as-yet undetected events and convergence of ideas in places too distant to communicate.
+- Explanations undergo memetic evolution of ideas, creative conjectures providing variation and explanatory power providing selection.
+- Neo-darwinist ideas of memetics explain why some bad ideas or explanations spread faster than good ones -- ideas spread either for its explanatory power, or its ability to replicate itself. If the idea is easier to remember (like a rule of thumb) or naturally replicates, it will become dominant over even correct, albeit less replicative, ones.
+- In the course of incremental processes of improvement, the "reach" (generality) of a process may suddenly become universal, producing a universal, fully general idea or process or machine (DNA, numerals, software, deep learning).
+- Number and mathematics is a consequent of science, and an arbitrary property of nature. This explains the "unreasonable" explanatory power of mathematics on natural laws. Properties of finiteness, provability, and computability are consequents of constraints of nature. i.e. Mathematics does not reach in its explanatory power outside of the universe.
+- Optimism is the belief that the only thing knowledge cannot explain is the possibility of future knowledge, and hence, assumption that a random walk in the space of knowledge will lead to improvement in the future. This optimism, and the belief in the fundamental power of knowledge, is the driving force behind the Enlightenment. When civilization has advanced, it is because of this force of the Enlightenment and belief in optimism.
+
+# Never Split the Difference, Chris Voss
+- Tactic: open ended question, which buys time and creates illusion of control. Make then solve your problems. Questions aren't no's, but they aren't yesses, and can end up with the other party usually negotiating themselves into a compromise.
+- The "system 1" animal brain of desires and emotions and instincts are always at the root of decisions, and they guide "system 2" thinking, rationalizing decisions to their whim. If you can move the animal brain desires, you can get the other party to rationalize anything.
+- "Tactical empathy: listening as a martial art". Actively listening is the most effective and least costly concession you can make.
+
+# Erik Torenberg, On Deck, on building communities
+- He does yearly personal-network retreats of people he wants to keep close in-network. Who joins? The people he'd want to be friends with for the next 70 years. A life-changing experience / idea.
+- When you meet people you'd want to work with in the future, let them know!
+- Four ingredients of the start of a good community: identity, trust, knowing how to participate, and some intrinsic/extrinsic reward for participating. These create reason to start gathering and keep gathering.
+- The university is the ultimate super-community: a community and a place with lots of people with a shared identity being built together, a common shared language, and a huge diversity of sub-communities and tribes, all in a self-replicating, self-sustaining package.
+
+# Accel Scholars' Amit Kumar on navigating a career
+- "Those who say yes are rewarded by the adventures they go on; those who say no are rewarded by the safety they attain."
+- Success is a lagging indicator. Create value, and success and money will find you.
+- Risk vs upside isn't a balance you need to find an ideal version of. Risk vs upside is a tradeoff space where there is always something you're giving up. The key is to know when to lean which way.
+
+# Kanyi Maqubela of Kindred Ventures on VC 101
+- Venture is a Winner's business. It's about what can go right, not what can go wrong. "It only takes one." If you have one winner, nothing else matters.
+    - True for venture fund returns, for portfolio companies, for features in products.
+- Hypergrowth is a differentiated expertise you can't learn anywhere else but by being there when the Winners happen. For this reason, it's a known secret that Winners beget Winners. You only know how to do it if you've been there when it happened.
+- Access is key in venture. Most firms don't even get a chance to reject the Winners.
+- There's always a reason to say no with enough diligence in venture; the key is what can go right, and make you say yes.
+- In any given industry or market, people will go for the same top 10 winners of the market for solutions. Venture is no different. Being in that top 10 "tier 1" is important.
+- Seek the "higher order levels of common knowledge" that are evident to the people who consistently win, but not the "common knowledge" of the general population in the game. This will continue changing. The only way to get there is to be where things happen -- access.
+
+# Hayley Barna from Birchbox on evaluating consumer startups
+- "Consumer companies are built in image of their founders."
+- Once you hit growth after achieving PMF, if founders aren't spending 50% of their time recruiting/hiring, you're going to be bottlenecked by talent resources. This shift is hard for many founders.
+- Profitability is only good in venture backed businesses if it's accompanied by velocity -- profitability by not spending money after PMF is pointless. The point of venture funding is to burn money to scale 1000x during that period.
+- Achieving product-market fit, and not being fooled into fake PMF
+    1. Set a goal/vision before building an MVP that validates the business. What would it look like if we have PMF? What does it take to believe?
+    2. When you hit PMF, you can tell that you've hit a nerve in the market. There will be unexpected customer responses to the positive.
+- Instrument and debug your business like a software in vivo.
+
+# Behind the Beautiful Forevers, Katherine Boo
+- There were three ways out of poverty. (1) finding an entrepreneurial niche, (2) politics and corruption, and (3) education.
+- "At the heart of many bad natures was envy; and at the heart of envy was possibly hope."
+
+# ODW1: Justin Murphy on growing an audience as an indie thinker
+- The changing landscape of media today has transformed the hierarchy of power and influence in a way few people understand and fewer people exploit.
+    - In the new media landscape, the global prestige pyramid has fragmented into millions of smaller pyramids.
+- Honesty is costly signaling -- signaling that incurs a personal cost -- that earns you credibility
+    - When you're honest (signal with cost, vulnerability), rational observers (audience) perceive you as more trustworthy amongst the overpopulation of noise. You become signal in noise.
+- "People can get addicted to almost anything if it comes out on a regular basis
+- Building an audience is a game of attrition. If you can simply outlast, you will win. Most people drop. If you can get to a hundred of anything created, you'll start out ahead.
+- Ways to social status:
+    1. Dominance: "fear" - brute power, authority, wealth. threads of force.
+    2. Prestige: "love" - things people admire for non-coerced reasons. respected.
+- On prestige
+    1. A certain degree of hypocrisy is baked into prestige. It requires a certain modicum of fakery / inauthenticity, otherwise known as manners, tradition, etc.
+    2. Power of prestige is conditional on limited media choice. If there are limited channels, prestige really matters and gives you outsized payoffs because of the natural monopoly. Prestige is a prerequisite to influence.
+
+# ODW1: Turning an audience into a community
+- Principles of belonging
+    1. Template - a place
+    2. Inner rings - CS Lewis style, aspiration ladder
+    3. Initiations - how do you meaningfully mark crossing into the temple?
+    4. Stories - to help us understand shared values
+    5. Rituals - some practice, imbued with meaning
+
+# Drive, Daniel Pink
+- Extrinsic motivation, like money, are like caffeine -- effective at creating a burst of short-term motivation. But they have an antithetical effect in long-term motivation. Intrinsic motivation, "drive", by contrast lasts, and strengthens with time. This is the inherent desire to learn and explore and improve. External motivation is a drug whose dependency looks like the death of curiosity.
+    - These intrinsic drivers are driven by the search for autonomy, mastery, and purpose.
+- Two kinds of work; heuristic work offers motivational/intrinsic drive, upsetting economics of work.
+    1. Algorithmic work: repetition of a set, deterministic process. Rote tasks, mechanizable.
+    2. Heuristic work: no known single algorithm, requires invention of new algorithms, adaptation, creativity.
+- Extrinsic motivators create narrow focus. This is good for algorithmic work, but detrimental for heuristic tasks. This happens because extrinsic motivators and goals "crowd out" intrinsic ones, if they exist.
+- Management leads to compliance; autonomy leads to engagement. Build up an organization as a system of series of opt-in motivating steps, a product optimizing for engagement.
+- Autonomy leads to flow, which leads to mastery, which leads to productivity. The absence of this is burnout, where motivation has been lost.
+- Management: Real challenges are much more invigorating / energizing / motivating than forced leisure.
+
+# ODW1: How to Tweet, with @kevinleeme and @shl
+- Kevin wrote a series of threads that saw his following go from about 4k to 17k in ~a month. Threads were about random stories in the world he found fascinating -- Humans of NY, becoming a chef by trial and error.
+    - Don't bury the lede, first tweet should be hook. Keep a thread below 21 tweets, so users don't have to expand further in Twitter's UI.
+- Twitter algorithm really works in your favor once you build momentum. If you wrote a viral thread this week, make sure you write another one next week because Twitter will show it to the same people.
+- @shl: Tweets should: educate, inspire, entertain
+- "People are on Twitter to get a dopamine fix. Be a dopamine dealer."
+
+# Principles of script writing from @tonytost
+- Hitchcock: Suspense is tension, plus release. Both are necessary, but suspense is also more fundamental -- it can provide structure and create momentum. Surprise weakens with use; suspense strengthens.
+- The drama is not in the dialogue, but in the desires and goals underneath the words. If the characters don't have specific desires or goals, they can say many things but it won't be dramatic.
+- Every scene should belong to one character and be felt through that perspective. A scene with multiple points of view will come across as a scene with no perspective at all.
+- The perfectly written dramatic scene can be told completely visually, without dialogue. Screenwriting is storytelling in pictures, not filming dialogue. If the drama is not written into the scene, no amount of cinematography can compensate for it.
+- Pain by itself doesn't make a character dramatically compelling. But, what a character does with the pain can be incredibly compelling.
+- An emotion gets more exciting when it gets more precise, in context.
+- Whedon: Focus on moments, not moves.
+- People don't change; they get revealed. In any moment, what's hidden? What's being masked? What's being learned?
+- Stories ride on desires. They predominantly take one of three forms:
+    1. Someone is searching for something they don't have
+    2. Someone is trying to keep or protect something they already have
+    3. Someone is trying to get back something that they've lost
+- Language is rarely used as a window into someone's mind. It's usually used as a shield, or a weapon, or a distraction, or a mask. Use language as ain index of the character's heart and mind, not a simple vehicle for their state.
+
 # ODW1: Byrne Hobart on Newsletter Businesses
 - Understand whether the newsletter is the product, or whether it's selling another product (like yourself as the product!)
 - More than other styles, a daily newsletter becomes a habit. A thing becomes "your beat," and when something happens people will expect and look forward to your thoughts on it.
