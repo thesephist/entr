@@ -8,7 +8,7 @@ function parseNotes(txt) {
   const notes = [];
   const lines = txt.split('\n').filter(line => !!(line.trim()));
 
-  function pushNote(line) { notes.push({ heading, lines: [line] }) }
+  function pushNote(line) { notes.push({ heading, lines: [line.replaceAll(' // ', '\n\n')] }) }
   function pushLine(line) { notes[notes.length - 1].lines.push(line) }
 
   for (const line of lines) {
