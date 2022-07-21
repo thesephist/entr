@@ -67,12 +67,12 @@ class App extends Component {
     });
   }
   compose() {
-	const matched = search(
-		this.notes,
-		this.search,
-		note => (note.heading || '') + note.lines.join('\n'),
-		{ mode: 'prefix' }
-	);
+    const matched = search(
+      this.notes,
+      this.search,
+      note => (note.heading || '') + note.lines.join('\n'),
+      { mode: 'prefix' }
+    );
     return html`<div class="app">
       <header class="accent paper">
         <a href="https://thesephist.com" target="_blank">Linus's</a> notes on startups and life.
