@@ -2,6 +2,7 @@ const {
   Component,
 } = window.Torus;
 const html = window.jdom;
+const { search } = window.libsearch;
 
 function parseNotes(txt) {
   let heading = null;
@@ -32,30 +33,6 @@ function parseNotes(txt) {
   }
 
   return notes;
-}
-
-function noteMatches(search, { heading, lines }) {
-  if (!search.trim()) {
-    return true;
-  }
-
-  search = search.toLowerCase();
-
-  if (heading && heading.toLowerCase().includes(search)) {
-    return true;
-  }
-
-  if (lines.length === 1) {
-    return lines[0].toLowerCase().includes(search);
-  }
-
-  for (const line of lines) {
-    if (line.toLowerCase().includes(search)) {
-      return true;
-    }
-  }
-
-  return false;
 }
 
 function Note({ heading, lines }) {
@@ -90,7 +67,12 @@ class App extends Component {
     });
   }
   compose() {
-    const matched = this.notes.filter(note => noteMatches(this.search, note));
+	const matched = search(
+		this.notes,
+		this.search,
+		note => (note.heading || '') + note.lines.join('\n'),
+		{ mode: 'prefix' }
+	);
     return html`<div class="app">
       <header class="accent paper">
         <a href="https://thesephist.com" target="_blank">Linus's</a> notes on startups and life.
